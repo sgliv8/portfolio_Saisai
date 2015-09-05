@@ -205,7 +205,7 @@
 									<p>The Kapler 404 page has been used in one of the UW Online Presentation Evaluation application developed by the University of Washington Supply Chain Management and Logistics Department.</p>
 									<br><br>
 									<div class="visit_site pull-right">
-										<a href="#">Visit Website</a>
+										<a href="#" target="_blank">Visit Website</a>
 									</div>
 									<br><br>
 								</div>
@@ -225,7 +225,7 @@
 					<div class="container">
 						<p>Copyright &copy; 2015 
 						<span><img src="images/logo250.png" alt="logo" style="width: 60px; margin: 0 30px;"></span>
-						<a href="#"> Qianqian Wang</a>
+						<a href="index.php"> Qianqian Wang</a>
 					</p>
 					</div>
 				</div>

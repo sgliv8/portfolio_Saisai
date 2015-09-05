@@ -411,7 +411,7 @@
 					<div class="container">
 						<p>Copyright &copy; 2015 
 						<span><img src="images/logo250.png" alt="logo" style="width: 60px; margin: 0 30px;"></span>
-						<a href="#"> Qianqian Wang</a>
+						<a href="index.php"> Qianqian Wang</a>
 					</p>
 					</div>
 				</div>
