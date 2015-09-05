@@ -6,6 +6,7 @@
 		<link href='http://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900' rel='stylesheet' type='text/css'>
 		<link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
 	<!--//fonts-->
+		<link rel="icon" href="favicon.png" type="image/ico">
 		<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 		<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
 		<!-- <link rel="shortcut icon" href="../favicon.ico"> -->
