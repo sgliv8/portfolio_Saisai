@@ -42,7 +42,7 @@
 		<div class="menu-wrap">
 			<nav class="menu">
 				<div class="icon-list">
-					<a href="index.php#portfolio" style="color: #c94e50;"><span style="font-size: 1em;">Portfolio</span></a>
+					<a href="#" style="color: #c94e50;"><span style="font-size: 1em;">Portfolio</span></a>
 					<a href="hubtag_web.php"><i class="fa fa-fw fa-video-camera"></i><span>Hubtag Website</span></a>
 					<a href="hubtag_dash.php"><i class="fa fa-fw fa-gamepad"></i><span>Hubtag Dashboard</span></a>
 					<a href="tagether.php"><i class="fa fa-fw fa-chrome"></i><span>Tagether</span></a>
@@ -71,7 +71,7 @@
 							<script src="js/classie.js"></script>
 							<!--top-nav---->
 							<div class="logo" style="width: 70px; margin-left: 20px; margin-top: -10px;">
-								<a href="index.html"><img src="images/logo250.png" alt=""/></a>
+								<a href="index.php"><img src="images/logo250.png" alt=""/></a>
 							</div>
 							
 							<!---start-click-drop-down-menu----->
@@ -143,51 +143,51 @@
 						<div class="gallery-grids">
 							<div class="top-gallery">
 								<div class="col-md-4 col-sm-6 gallery-grid gallery1">
-									<a href="hubtag_web.html"><img src="images/p1.png" class="img-responsive" alt="/">
+									<a href="hubtag_web.php"><img src="images/p1.png" class="img-responsive" alt="/">
 										<div class="textbox">
 											<h4>Hubtag Website</h4>
 											<p>WEB DESIGN</p>
-											<div class="button"><a href="hubtag_web.html">VIEW</a></div>
+											<div class="button"><a href="hubtag_web.php">VIEW</a></div>
 										</div>
 								</div></a>
 								<div class="col-md-4 col-sm-6 gallery-grid gallery1">
-									<a href="hubtag_dash.html"><img src="images/p2.png" class="img-responsive" alt="/">
+									<a href="hubtag_dash.php"><img src="images/p2.png" class="img-responsive" alt="/">
 										<div class="textbox">
 											<h4>Hubtag Caster Dashboard</h4>
 											<p>WEB DESIGN</p>
-											<div class="button"><a href="hubtag_dash.html">VIEW</a></div>
+											<div class="button"><a href="hubtag_dash.php">VIEW</a></div>
 										</div>
 								</div></a>
 								<div class="col-md-4 col-sm-6 gallery-grid gallery1">
-									<a href="kapler.html"><img src="images/p3.png" class="img-responsive" alt="/">
+									<a href="kapler.php"><img src="images/p3.png" class="img-responsive" alt="/">
 										<div class="textbox">
 											<h4>404 Page -- KAPLER</h4>
 											<p>WEB DESIGN</p>
-											<div class="button"><a href="kapler.html">VIEW</a></div>
+											<div class="button"><a href="kapler.php">VIEW</a></div>
 										</div>
 								</div></a>
 								<div class="col-md-4 col-sm-6 gallery-grid gallery1">
-									<a href="handcraft.html"><img src="images/p6.png" class="img-responsive" alt="/">
+									<a href="handcraft.php"><img src="images/p6.png" class="img-responsive" alt="/">
 										<div class="textbox">
 											<h4>Q' HANDCRAFT Website</h4>
 											<p>WEB DESIGN</p>
-											<div class="button"><a href="handcraft.html">VIEW</a></div>
+											<div class="button"><a href="handcraft.php">VIEW</a></div>
 										</div>
 								</div></a>
 								<div class="col-md-4 col-sm-6 gallery-grid gallery1">
-									<a href="tagether.html"><img src="images/p4.png" class="img-responsive" alt="/">
+									<a href="tagether.php"><img src="images/p4.png" class="img-responsive" alt="/">
 										<div class="textbox">
 											<h4>Tagether -- Chrome Extension</h4>
 											<p>APP UI DESIGN</p>
-											<div class="button"><a href="tagether.html">VIEW</a></div>
+											<div class="button"><a href="tagether.php">VIEW</a></div>
 										</div>
 								</div></a>
 								<div class="col-md-4 col-sm-6 gallery-grid gallery1">
-									<a href="banana.html"><img src="images/p5.jpg" class="img-responsive" alt="/">
+									<a href="banana.php"><img src="images/p5.jpg" class="img-responsive" alt="/">
 										<div class="textbox">
 											<h4>Juice Store -- Why Not Banana?</h4>
 											<p>WEB DESIGN</p>
-											<div class="button"><a href="banana.html">VIEW</a></div>
+											<div class="button"><a href="banana.php">VIEW</a></div>
 										</div>
 								</div></a>
 								<div class="clearfix"> </div>

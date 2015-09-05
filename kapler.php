@@ -54,12 +54,13 @@
 		<div class="menu-wrap">
 			<nav class="menu">
 				<div class="icon-list">
-					<a href="#"><i class="fa fa-fw fa-star-o"></i><span>Favorites</span></a>
-					<a href="#"><i class="fa fa-fw fa-bell-o"></i><span>Alerts</span></a>
-					<a href="#"><i class="fa fa-fw fa-envelope-o"></i><span>Messages</span></a>
-					<a href="#"><i class="fa fa-fw fa-comment-o"></i><span>Comments</span></a>
-					<a href="#"><i class="fa fa-fw fa-bar-chart-o"></i><span>Analytics</span></a>
-					<a href="#"><i class="fa fa-fw fa-newspaper-o"></i><span>Reading List</span></a>
+					<a href="#" style="color: #c94e50;"><span style="font-size: 1em;">Portfolio</span></a>
+					<a href="hubtag_web.php"><i class="fa fa-fw fa-video-camera"></i><span>Hubtag Website</span></a>
+					<a href="hubtag_dash.php"><i class="fa fa-fw fa-gamepad"></i><span>Hubtag Dashboard</span></a>
+					<a href="tagether.php"><i class="fa fa-fw fa-chrome"></i><span>Tagether</span></a>
+					<a href="kapler.php"><i class="fa fa-fw fa-space-shuttle"></i><span>Kapler</span></a>
+					<a href="banana.php"><i class="fa fa-fw fa-glass"></i><span>Why not banana</span></a>
+					<a href="handcraft.php"><i class="fa fa-fw fa-gift"></i><span>Q' Handcraft</span></a>
 				</div>
 			</nav>
 			<span class="close-button" id="close-button">Close Menu</span>
@@ -81,7 +82,7 @@
 						<div class="top-header row">
 							<!--top-nav---->
 							<div class="logo" style="width: 70px; margin-left: 20px; margin-top: -10px;">
-								<a href="index.html"><img src="images/logo250.png" alt=""/></a>
+								<a href="index.php"><img src="images/logo250.png" alt=""/></a>
 							</div>
 							
 							<div class="clearfix"> </div>
@@ -177,7 +178,7 @@
 										<h1 style="display: inline-block; vertical-align: middle; padding-left: 10px; font-size: 20px; font-weight: 700; color: #ffbbe0;">Design</h1>
 									</div>
 									<br>
-									<p>I applied a space scene that Kapler and earth are looking at each other as the background image of page. The design of the 404 message is a scenario where the visitors will be prompted a error message sent by the alien living on the Kapler. I also created a redirect link with astronautics equipment that could lead the user back to homepage.</p>
+									<p>I applied a space scene that Kapler and Sun are looking at each other as the background image of page. The design of the 404 message is a scenario where the visitors will be prompted a error message sent by the alien living on the Kapler. I also created a redirect link with astronautics equipment that could lead the user back to homepage.</p>
 									<br><br>
 								</div>
 								<div class="col-md-8">
