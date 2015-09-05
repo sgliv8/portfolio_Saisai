@@ -13,6 +13,7 @@
 		<!-- <link rel="stylesheet" type="text/css" href="css/demo.css" /> -->
 		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.css" />
 		<link rel="stylesheet" type="text/css" href="css/menu_elastic.css" />
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/nprogress/0.2.0/nprogress.min.css">
 	<!-- for-mobile-apps -->
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -20,6 +21,7 @@
 	<!-- //for-mobile-apps -->
 	<!-- js -->
 		<script type="text/javascript" src="js/jquery.min.js"></script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/nprogress/0.2.0/nprogress.min.js"></script>
 	<!-- js -->
 	<!-- start-smooth-scrolling -->
 		<script type="text/javascript" src="js/move-top.js"></script>
@@ -418,20 +420,25 @@
 		</div><!-- /content-wrap -->
 	</div><!-- /container -->
 <!-- here stars scrolling icon -->
-	<script type="text/javascript">
-		$(document).ready(function() {
-			/*
-				var defaults = {
-				containerID: 'toTop', // fading element id
-				containerHoverID: 'toTopHover', // fading element hover id
-				scrollSpeed: 1200,
-				easingType: 'linear' 
-				};
-			*/
-								
-			$().UItoTop({ easingType: 'easeOutQuart' });
-								
-			});
+	<script>
+
+		// Show the progress bar 
+	    NProgress.start();
+
+	    // Increase randomly
+	    var interval = setInterval(function() { NProgress.inc(); }, 1000);        
+
+	    // Trigger finish when page fully loaded
+	    jQuery(window).load(function () {
+	        clearInterval(interval);
+	        NProgress.done();
+	    });
+
+	    // Trigger bar when exiting the page
+	    jQuery(window).unload(function () {
+	        NProgress.start();
+	    });
+
 	</script>
 	<script src="js/classie.js"></script>
 	<script src="js/main3.js"></script>
