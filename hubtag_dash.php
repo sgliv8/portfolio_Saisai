@@ -231,6 +231,15 @@
 									</a>
 								</div>
 								<div class="col-md-4">
+									<div class="tags">
+			                            <ul class="tag">
+			                            	<li><a>Photoshop</a></li>
+			                            	<li><a>Illustrator</a></li>
+			                            	<li><a>Web Design</a></li>
+			                            	<li><a>UX/UI</a></li>
+			                            	<li><a>Responsive Design</a></li> 
+			                            </ul>
+			                        </div> <!-- tags -->
 									<p>The dashboard is an enormous source of opportunity for engaging gamers to control their own broadcasting. So I kept the overall style metal effect and vibrant, and applied this strategy on the left side navigation background with a consistent color palette of Hubtag branding, and used the vibrant color for highlight icons.</p>
 									<br><br>
 									<p class="pad_1"></p>

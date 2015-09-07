@@ -194,6 +194,14 @@
 									<p style="padding-bottom: 3em;"></p>
 								</div>
 								<div class="col-md-4">
+									<div class="tags">
+			                            <ul class="tag">
+			                            	<li><a>Photoshop</a></li>
+			                            	<li><a>Illustrator</a></li>
+			                            	<li><a>Web Design</a></li>
+			                            	<li><a>UX/UI</a></li> 
+			                            </ul>
+			                        </div> <!-- tags -->
 									<p>In this project, I determined that the overall design style would be clean and minimalist, allowing the beautiful handcrafts to be the focal point.  High quality professional photography was incorporated to provide visitors with a dynamic, user friendly and efficient look and feel with hints of vintage. The clean and clutter free design also facilitates the shopping experience from browsing handcrafts to purchase.</p>
 									<br><br>
 								</div>

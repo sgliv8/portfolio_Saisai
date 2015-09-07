@@ -228,6 +228,15 @@
 									<p style="margin-bottom: 3em;"></p>
 								</div>
 								<div class="col-md-4">
+									<div class="tags">
+			                            <ul class="tag">
+			                            	<li><a>Photoshop</a></li>
+			                            	<li><a>Illustrator</a></li>
+			                            	<li><a>Web Design</a></li>
+			                            	<li><a>UX/UI</a></li>
+			                            	<li><a>Responsive Design</a></li> 
+			                            </ul>
+			                        </div> <!-- tags -->
 									<p>With the new redesign Hubtag website you’ll notice the creative direction included establishing an elegant yet dynamic, user friendly and efficient look and feel with hints of contemporary.</p>
 									<br><br>
 									<p>A skyline of Seattle is used as background image in the welcome section of the home page to identify the location of Hubtag. In order to emphasize the new live streaming product, I decided to incorporate the slogan and the four advantages of Caster in the welcome section. </p>

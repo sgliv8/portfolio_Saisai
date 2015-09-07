@@ -192,7 +192,16 @@
 										<img src="images/design.png" alt="design" style="display: inline-block; width: 55px;">
 										<h1 style="display: inline-block; vertical-align: middle; padding-left: 10px; font-size: 20px; font-weight: 700; color: #ffbbe0;">Design</h1>
 									</div>
-									<br>
+									<br><br>
+									<div class="tags">
+			                            <ul class="tag">
+			                            	<li><a>Photoshop</a></li>
+			                            	<li><a>Illustrator</a></li>
+			                            	<li><a>Web Design</a></li>
+			                            	<li><a>UX/UI</a></li>
+			                            </ul>
+			                        </div> <!-- tags -->
+			                        <br>
 									<p>I applied a space scene that Kapler and Sun are looking at each other as the background image of page. The design of the 404 message is a scenario where the visitors will be prompted a error message sent by the alien living on the Kapler. I also created a redirect link with astronautics equipment that could lead the user back to homepage.</p>
 									<br><br>
 								</div>

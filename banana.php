@@ -199,6 +199,14 @@
 									<p style="padding-bottom: 3em;"></p>
 								</div>
 								<div class="col-md-4">
+									<div class="tags">
+			                            <ul class="tag">
+			                            	<li><a>Illustrator</a></li>
+			                            	<li><a>Web Design</a></li>
+			                            	<li><a>UX/UI</a></li>
+			                            	<li><a>Responsive Design</a></li> 
+			                            </ul>
+			                        </div> <!-- tags -->
 									<p>With a responsive layout and robust eCommerce combination, there was a heavy focus on seamless functionality and a terrific user experience across smaller devices!</p>
 									<br><br>
 								</div>

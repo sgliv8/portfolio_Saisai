@@ -25,6 +25,64 @@ ul,label{
 body a:hover{
 	text-decoration:none;
 }
+
+
+/*Styles for the tags group in the portfolio page*/
+
+.tags {
+  margin-top: 20px;
+}
+
+.tag {
+  margin: 0 0 1em 0;
+  padding: 5px;
+  list-style: none;
+}
+
+.tag li {
+  display: inline-block;
+}
+
+.tag a {
+  display: inline-block;
+  line-height: 30px;
+  font-size: 90%;
+  position: relative;
+  margin: 0 20px 8px 6px;
+  padding: 0 13px 0 15px;
+  background: #ffbbe0;
+  text-transform: uppercase;
+  color: #fff;
+  border-radius: 0 2px 2px 0;
+  font-weight: 500;
+}
+
+.tag a:before {
+  content: "";
+  float: left;
+  position: absolute;
+  top: 0px;
+  left: -11px;
+  width: 0;
+  height: 0;
+  border-right-color: #ffbbe0;
+  border-style: solid;
+  border-width: 15px 11px 15px 0;
+}
+
+.tag a:after {
+  content: "";
+  position: absolute;
+  top: 11px;
+  left: 0;
+  float: left;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #fff;
+}
+
+
 /*--header-menu--*/
 button#showRightPush {
 	background: none;
@@ -4358,6 +4416,8 @@ background: #3A5795;
   color: #ffbbe0;
   border: 3px solid #ffbbe0
 }
+
+
 
 
 

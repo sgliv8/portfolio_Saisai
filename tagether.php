@@ -219,7 +219,16 @@
 									<p style="margin-bottom: 3em;"></p>
 								</div>
 								<div class="col-md-4">
-									
+									<div class="tags">
+			                            <ul class="tag">
+			                            	<li><a>Sketch 3</a></li>
+			                            	<li><a>iMovie</a></li>
+			                            	<li><a>Web Design</a></li>
+			                            	<li><a>UX/UI</a></li>
+			                            	<li><a>Poster Design</a></li> 
+			                            	<li><a>Video Production</a></li>
+			                            </ul>
+			                        </div> <!-- tags -->
 									<p>The poster of Tagether project was designed with the concept of using the folder as the universal tagging. The logo derived from the user interface of the application and set the tone of the color palette of the poster design. The main body of the poster was to show the process of using the application in a real situation. The strategy was to communicate the steps of operating Tagether effectively and that involved the use of wonderfully crafted illustration. Features section was design at the bottom of the poster with clean and eye-catching icons to draw the attention of the audience.</p>
 									<br><br>
 								</div>
@@ -274,7 +283,7 @@
 								
 								
 							</div>	
-							<p style="padding-bottom: 3em;"></p>
+							<p style="padding-bottom: 1em;"></p>
 						</div>
 					</div>
 
