@@ -15,6 +15,7 @@
 		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.css" />
 		<link rel="stylesheet" type="text/css" href="css/menu_elastic.css" />
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/nprogress/0.2.0/nprogress.min.css">
+		<link rel="stylesheet" href="css/magnific-popup.css">
 	<!-- for-mobile-apps -->
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -23,6 +24,7 @@
 	<!-- js -->
 		<script type="text/javascript" src="js/jquery.min.js"></script>
 		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/nprogress/0.2.0/nprogress.min.js"></script>
+		<script type="text/javascript" src="js/jquery.magnific-popup.min.js"></script>
 	<!-- js -->
 	<!-- start-smooth-scrolling -->
 		<script type="text/javascript" src="js/move-top.js"></script>
@@ -168,7 +170,9 @@
 							</div>
 							<div class="row">
 								<div class="col-md-6">
-									<img src="images/new_star.jpg" alt="new star">
+									<a class="popup-link" href="images/new_star.jpg">
+										<img src="images/new_star.jpg" alt="new star">
+									</a>
 								</div>
 								<div class="col-md-5 col-md-offset-1">
 									
@@ -193,7 +197,9 @@
 									<br><br>
 								</div>
 								<div class="col-md-8">
-									<img src="images/404iPad.png" alt="Kapler 404 iPad">
+									<a class="popup-link" href="images/404iPad.png">
+										<img src="images/404iPad.png" alt="Kapler 404 iPad">
+									</a>
 								</div>
 								
 							</div>	

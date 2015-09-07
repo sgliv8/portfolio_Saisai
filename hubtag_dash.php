@@ -15,6 +15,7 @@
 		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.css" />
 		<link rel="stylesheet" type="text/css" href="css/menu_elastic.css" />
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/nprogress/0.2.0/nprogress.min.css">
+		<link rel="stylesheet" href="css/magnific-popup.css">
 	<!-- for-mobile-apps -->
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -23,6 +24,7 @@
 	<!-- js -->
 		<script type="text/javascript" src="js/jquery.min.js"></script>
 		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/nprogress/0.2.0/nprogress.min.js"></script>
+		<script type="text/javascript" src="js/jquery.magnific-popup.min.js"></script>
 	<!-- js -->
 	<!-- start-smooth-scrolling -->
 		<script type="text/javascript" src="js/move-top.js"></script>
@@ -168,7 +170,9 @@
 							</div>
 							<div class="row">
 								<div class="col-md-8">
-									<img src="images/old.png" alt="old hubtag website">
+									<a class="popup-link" href="images/old.png">
+										<img src="images/old.png" alt="old hubtag website">
+									</a>
 								</div>
 								<div class="col-md-4">
 									<p>Hubtag is going to launch their live streaming software for gamers. In order to bring gamers better user experience, the company decided to develop a web-based dashboard to simplify the management of the software. After getting the data from user research, the client had a clear understanding of what functionalities they want on the dashboard.</p>
@@ -192,7 +196,9 @@
 									<br><br>
 								</div>
 								<div class="col-md-8">
-									<img src="images/old_dashboard.png" alt="old hubtag website">
+									<a class="popup-link" href="images/old_dashboard.png">
+										<img src="images/old_dashboard.png" alt="old hubtag website">
+									</a>
 								</div>
 								
 							</div>	
@@ -212,11 +218,17 @@
 							</div>
 							<div class="row">
 								<div class="col-md-8">
-									<img src="images/dashboard_desktop1.png" alt="hubtag home page">
+									<a class="popup-link" href="images/dashboard_desktop1.png">
+										<img src="images/dashboard_desktop1.png" alt="hubtag home page">
+									</a>
 									<p style="margin-bottom: 3em;"></p>
-									<img src="images/dashboard_desktop2.png" alt="hubtag about page">
+									<a class="popup-link" href="images/dashboard_desktop2.png">
+										<img src="images/dashboard_desktop2.png" alt="hubtag about page">
+									</a>
 									<p style="margin-bottom: 3em;"></p>
-									<img src="images/dashboard_iphone.png" alt="hubtag about page">
+									<a class="popup-link" href="images/dashboard_iphone.png">
+										<img src="images/dashboard_iphone.png" alt="hubtag about page">
+									</a>
 								</div>
 								<div class="col-md-4">
 									<p>The dashboard is an enormous source of opportunity for engaging gamers to control their own broadcasting. So I kept the overall style metal effect and vibrant, and applied this strategy on the left side navigation background with a consistent color palette of Hubtag branding, and used the vibrant color for highlight icons.</p>

@@ -15,6 +15,7 @@
 		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.css" />
 		<link rel="stylesheet" type="text/css" href="css/menu_elastic.css" />
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/nprogress/0.2.0/nprogress.min.css">
+		<link rel="stylesheet" href="css/magnific-popup.css">
 	<!-- for-mobile-apps -->
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -23,6 +24,7 @@
 	<!-- js -->
 		<script type="text/javascript" src="js/jquery.min.js"></script>
 		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/nprogress/0.2.0/nprogress.min.js"></script>
+		<script type="text/javascript" src="js/jquery.magnific-popup.min.js"></script>
 	<!-- js -->
 	<!-- start-smooth-scrolling -->
 		<script type="text/javascript" src="js/move-top.js"></script>
@@ -168,7 +170,9 @@
 							</div>
 							<div class="row">
 								<div class="col-md-8">
-									<img src="images/old.png" alt="old hubtag website">
+									<a class="popup-link" href="images/old.png">
+										<img src="images/old.png" alt="old hubtag website">
+									</a>
 								</div>
 								<div class="col-md-4">
 									<p>Hubtag LLC is an early stage startup in the Great Seattle Area. It is an eSport technology company that provides resources and broadcast solutions for video gamers. Recently Hubtag released the first generation live streaming software and the web dashboard for the gamers. They wanted to redesign a new landing page to coincide with the dashboard for the live streaming software.</p>
@@ -192,7 +196,9 @@
 									<br><br>
 								</div>
 								<div class="col-md-8">
-									<img src="images/old.png" alt="old hubtag website">
+									<a class="popup-link" href="images/old.png">
+										<img src="images/old.png" alt="old hubtag website">
+									</a>
 								</div>
 								
 							</div>	
@@ -212,9 +218,13 @@
 							</div>
 							<div class="row">
 								<div class="col-md-8">
-									<img src="images/hubtag_home.jpg" alt="hubtag home page" class="img_shadow">
+									<a class="popup-link" href="images/hubtag_home.jpg">
+										<img src="images/hubtag_home.jpg" alt="hubtag home page" class="img_shadow">
+									</a>
 									<p style="margin-bottom: 3em;"></p>
-									<img src="images/hubtag_about.jpg" alt="hubtag about page" class="img_shadow">
+									<a class="popup-link" href="images/hubtag_about.jpg">
+										<img src="images/hubtag_about.jpg" alt="hubtag about page" class="img_shadow">
+									</a>
 									<p style="margin-bottom: 3em;"></p>
 								</div>
 								<div class="col-md-4">
@@ -313,6 +323,7 @@
 	    jQuery(window).unload(function () {
 	        NProgress.start();
 	    });
+
 	</script>
 	<script src="js/classie.js"></script>
 	<script src="js/main3.js"></script>

@@ -15,6 +15,7 @@
 		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.css" />
 		<link rel="stylesheet" type="text/css" href="css/menu_elastic.css" />
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/nprogress/0.2.0/nprogress.min.css">
+		<link rel="stylesheet" href="css/magnific-popup.css">
 	<!-- for-mobile-apps -->
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -23,6 +24,7 @@
 	<!-- js -->
 		<script type="text/javascript" src="js/jquery.min.js"></script>
 		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/nprogress/0.2.0/nprogress.min.js"></script>
+		<script type="text/javascript" src="js/jquery.magnific-popup.min.js"></script>
 	<!-- js -->
 	<!-- start-smooth-scrolling -->
 		<script type="text/javascript" src="js/move-top.js"></script>
@@ -163,7 +165,9 @@
 							<div class="row">
 								<div class="col-md-3">
 									<div class="img_con">
-										<img src="images/folder.png" alt="old hubtag website" style="width: 120px;">
+										<a class="popup-link" href="images/folder.png">
+											<img src="images/folder.png" alt="old hubtag website" style="width: 120px;">
+										</a>
 									</div>
 								</div>
 								<div class="col-md-7 col-md-offset-1">
@@ -187,7 +191,9 @@
 									<br><br>
 								</div>
 								<div class="col-md-7 col-md-offset-1" style="padding-top: 7em;">
-									<img src="images/papers.png" alt="old hubtag website">
+									<a class="popup-link" href="images/papers.png">
+										<img src="images/papers.png" alt="old hubtag website">
+									</a>
 								</div>
 								
 							</div>	
@@ -199,7 +205,7 @@
 					<div class="section s3 extra-padding">
 						<div class="container">
 							<div class="row">
-								<div class="col-md-offset-4" style="padding-left: 1.2em;">
+								<div class="col-md-offset-8" style="padding-left: 1.2em;">
 									<img src="images/design.png" alt="Idea" style="display: inline-block; width: 55px;">
 									<h1 style="display: inline-block; vertical-align: middle; padding-left: 10px; font-size: 20px; font-weight: 700; color: #ffbbe0;">Design</h1>
 								</div>
@@ -207,7 +213,9 @@
 							</div>
 							<div class="row">
 								<div class="col-md-8">
-									<img src="images/poster.png" alt="tagether poster">
+									<a class="popup-link" href="images/poster.png">
+										<img src="images/poster.png" alt="tagether poster">
+									</a>
 									<p style="margin-bottom: 3em;"></p>
 								</div>
 								<div class="col-md-4">
@@ -245,7 +253,7 @@
 					<div class="section s5 extra-padding">
 						<div class="container">
 							<div class="row">
-								<div class="col-md-offset-4" style="padding-left: 1.2em;">
+								<div class="col-md-offset-8" style="padding-left: 1.2em;">
 									<img src="images/presentation.png" alt="Presentation" style="display: inline-block; width: 65px;">
 									<h1 style="display: inline-block; vertical-align: middle; padding-left: 10px; font-size: 20px; font-weight: 700; color: #ffbbe0;">Presentation</h1>
 								</div>
