@@ -4,6 +4,7 @@ Author: Jay Xu && Emily Wang
 body{
 	margin:0;
 	font-family: 'Raleway', sans-serif;
+  overflow-x: hidden;
 }
 body a{
 	transition: 0.5s all ease;
