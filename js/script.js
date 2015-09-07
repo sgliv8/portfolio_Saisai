@@ -4,10 +4,10 @@ $(document).ready(function(){
 		// e.preventDefault();
 		if($(this).hasClass('active')){
 			$(this).removeClass('active');
-			$('html').css('overflow', 'initial');
+			$('html, body, .container, .content-wrap').css('overflow', 'initial');
 		}else {
 			$(this).addClass('active');
-			$('html').css('overflow', 'hidden');
+			$('html, body, .container, .content-wrap').css('overflow', 'hidden');
 
 		}
 		

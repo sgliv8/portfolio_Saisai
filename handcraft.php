@@ -97,7 +97,7 @@
 								</div>
 							</div>
 							<div class="col-lg-5 col-md-5 col-sm-5">
-								<h1 style="font-size:36px;">Q' HANDCRAFT</h1>
+								<h1 id="special_font">Q' HANDCRAFT</h1>
 								<div class="border"></div>
 								<h2>Corporate Business Design</h2>
 							</div>
@@ -199,7 +199,7 @@
 				<div class="footer">
 					<div class="container">
 						<p>Copyright &copy; 2015 
-						<span><img src="images/logo250.png" alt="logo" style="width: 60px; margin: 0 30px;"></span>
+						<span><img src="images/logo250.png" alt="logo" class="footer-logo"></span>
 						<a href="index.php"> Qianqian Wang</a>
 					</p>
 					</div>

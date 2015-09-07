@@ -1272,6 +1272,13 @@ color:#fff;
 }
 /*-- contact --*/
 /*-- footer --*/
+
+/*footer logo style*/
+.footer-logo {
+  width: 60px; 
+  margin: 0 30px;
+}
+
 .footer{
 background:#d7d7d7;
 padding:10px 0;
@@ -3029,11 +3036,11 @@ border:none;
 	  width: 100%;
 	}
 	.banner-left {
-	  float: left;
+    float: left;
 	  width: 30%;
 	}
 	.banner-right {
-	  float: right;
+    float: right;
 	  width: 70%;
 	}
 	.banner-right h1 {
@@ -3155,7 +3162,7 @@ border:none;
 	  top: 30%;
 	  left: 32%;
 	}*/
-	.work-info h3,.ser-info h3,.gallery-section h3,.process h3,.testimonials h3 ,.blog-info h3,.contact-info h3,.sam-head h3{
+	.about h3,.education h3,.gallery-section h3,.process h3,.my-skills h3 ,.blog-info h3,.contact-info h3,.sam-head h3{
 	  font-size: 28px;
 		letter-spacing: 11px;
 	}
@@ -3316,11 +3323,54 @@ border:none;
 	}
 }
 
-@media (max-width: 400px) {
+@media screen and (max-width: 400px) {
   .edu-grid img {
     top: 26%;
     left: 26%;
   }
+  .banner-left {
+    width: 100%;
+  }
+
+  .banner-left img {
+    width: 150px;
+    max-width: 100%;
+  }
+  .banner-right {
+    width: 100%;
+  }
+  .banner-right h1 {
+    margin: 35px 0 8px 0;
+  }
+
+  .banner-right h1 {
+    font-size: 16px;
+    letter-spacing: 5px;
+  }
+  .banner-right h2 {
+    font-size: 18px;
+  }
+  .banner-right a {
+    font-size: 13px;
+    }
+  .banner-right a {
+    padding: 5px 4px;
+  }
+  .banner-right h2 {
+    margin: 6px 0 24px 0;
+  }
+  .banner-info {
+    margin: 68px auto 130px auto;
+  }
+  .banner {
+    min-height: 231px;
+  }
+
+  .footer-logo {
+    margin: 0 10px;
+  }
+  
+
 }
 @media(max-width:320px){
 .col-md-4.sample-page-right {
@@ -3336,7 +3386,7 @@ border:none;
 .banner.page-head {
   min-height: 66px;
 }
-.work-info h3, .ser-info h3, .gallery-section h3, .process h3, .testimonials h3, .blog-info h3, .contact-info h3, .sam-head h3 {
+.about h3, .education h3, .gallery-section h3, .process h3, .my-skills h3, .blog-info h3, .contact-info h3, .sam-head h3 {
   font-size: 21px;
   letter-spacing: 5px;
 }
@@ -3397,31 +3447,6 @@ border:none;
   }
 .footer p {
   font-size: 13px;
-}
-.banner-right h1 {
-  font-size: 16px;
-  letter-spacing: 5px;
-}
-.banner-right h2 {
-  font-size: 18px;
-}
-.banner-right a {
-  font-size: 13px;
-  }
-.banner-right a {
-  padding: 5px 4px;
-}
-.banner-right h2 {
-  margin: 6px 0 14px 0;
-}
-.banner-right h1 {
-  margin: 8px 0 8px 0;
-}
-.banner-info {
-  margin: 38px auto 0 auto;
-}
-.banner {
-  min-height: 231px;
 }
 .about-back {
   min-height: 19px;
@@ -4250,3 +4275,24 @@ background: #3A5795;
     border-radius: 50%;
   }
 }
+
+
+/*Special font size for the handcraft page*/
+#special_font{
+  font-size: 36px;
+}
+
+@media screen and (max-width: 480px){
+  #special_font{
+    font-size: 28px;
+  }
+}
+
+/*overwrite bootstrap styles*/
+@media screen and (max-width: 768px){
+  .container {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
