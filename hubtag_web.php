@@ -51,6 +51,14 @@
 		body {
 			font-family: 'Verdana';
 		}
+
+		/*overwrite bootstrap styles*/
+		@media screen and (max-width: 768px){
+		  .container {
+		    padding-left: 0;
+		    padding-right: 0;
+		  }
+		}
 	</style>
 
 	<div>

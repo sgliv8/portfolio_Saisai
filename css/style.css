@@ -3325,7 +3325,7 @@ border:none;
 
 @media screen and (max-width: 400px) {
   .edu-grid img {
-    top: 26%;
+    top: 23%;
     left: 26%;
   }
   .banner-left {
@@ -4194,8 +4194,8 @@ p {
 
 @media screen and (max-width: 360px){
 .edu-grid img {
-    top: 26%;
-    left: 22%;
+    top: 20%;
+    left: 20%;
   }
 }
 
@@ -4288,11 +4288,4 @@ background: #3A5795;
   }
 }
 
-/*overwrite bootstrap styles*/
-@media screen and (max-width: 768px){
-  .container {
-    padding-left: 0;
-    padding-right: 0;
-  }
-}
 
