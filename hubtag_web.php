@@ -240,7 +240,7 @@
 						</div>
 					</div>
 
-					<div class="section s4 extra-padding" style="padding-bottom:6em;">
+					<div class="section s4 extra-padding">
 						<div class="container">
 							<div class="row">
 								<div class="col-md-12">
@@ -260,8 +260,20 @@
 						</div>
 					</div>
 
+					<hr class="nav_hr">
 
-				</div>
+					<div class="row portfolio-nav" style="padding-bottom:6em;">
+	                    <div class="col-xs-7 col-md-10">
+	                    	<a class="fa fa-arrow-left button" href="handcraft.php"></a>
+	                    </div>
+	                    <div class="col-xs-5 col-md-2 nav-btn">
+	                        <a class="fa fa-arrow-right button" href="hubtag_dash.php"></a>
+	                    </div>
+	                </div>
+
+
+
+				</div><!-- wrapper -->
 
 
 
@@ -280,6 +292,8 @@
 			</div><!-- /content -->
 		</div><!-- /content-wrap -->
 	</div><!-- /container -->
+	
+
 <!-- here stars scrolling icon -->
 	<script>
 

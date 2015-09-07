@@ -197,6 +197,17 @@
 						</div>
 					</div>
 
+					<hr class="nav_hr">
+
+					<div class="row portfolio-nav" style="padding-bottom:6em;">
+	                    <div class="col-xs-7 col-md-10">
+	                    	<a class="fa fa-arrow-left button" href="banana.php"></a>
+	                    </div>
+	                    <div class="col-xs-5 col-md-2 nav-btn">
+	                        <a class="fa fa-arrow-right button" href="hubtag_web.php"></a>
+	                    </div>
+	                </div>
+
 				</div>
 
 

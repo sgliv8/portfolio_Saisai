@@ -19,7 +19,7 @@ $(document).ready(function(){
 		var $open_button = $('#open-button'); 
 		if($open_button.hasClass('active')){
 			$open_button.removeClass('active');
-			$('html').css('overflow', 'initial');
+			$('html, body, .container, .content-wrap').css('overflow', 'initial');
 		}
 	});
 

@@ -3788,6 +3788,11 @@ a.callbacks_nav.callbacks1_nav.prev {
   background-position: 0 0;
   width: 96px;
   height: 96px;
+  -webkit-transition: all .5s ease-out;
+  -moz-transition: all .5s ease-out;
+  -ms-transition: all .5s ease-out;
+  -o-transition: all .5s ease-out;
+  transition: all .5s ease-out;
 }
 
 .communicate:hover{
@@ -3800,18 +3805,33 @@ a.callbacks_nav.callbacks1_nav.prev {
   background-position: -82px 0;
   width: 96px;
   height: 96px;
+  -webkit-transition: all .5s ease-out;
+  -moz-transition: all .5s ease-out;
+  -ms-transition: all .5s ease-out;
+  -o-transition: all .5s ease-out;
+  transition: all .5s ease-out;
 }
 
 .coroporate:hover{
   background-position: -83px -90px ;
   width: 96px;
   height: 96px;
+  -webkit-transition: all .5s ease-out;
+  -moz-transition: all .5s ease-out;
+  -ms-transition: all .5s ease-out;
+  -o-transition: all .5s ease-out;
+  transition: all .5s ease-out;
 }
 
 .design{
   background-position: -166px 0;
   width: 96px;
   height: 96px;
+  -webkit-transition: all .5s ease-out;
+  -moz-transition: all .5s ease-out;
+  -ms-transition: all .5s ease-out;
+  -o-transition: all .5s ease-out;
+  transition: all .5s ease-out;
 }
 
 .design:hover{
@@ -3824,6 +3844,11 @@ a.callbacks_nav.callbacks1_nav.prev {
   background-position: -250px 0;
   width: 96px;
   height: 96px;
+  -webkit-transition: all .5s ease-out;
+  -moz-transition: all .5s ease-out;
+  -ms-transition: all .5s ease-out;
+  -o-transition: all .5s ease-out;
+  transition: all .5s ease-out;
 }
 
 .idea:hover{
@@ -3836,6 +3861,11 @@ a.callbacks_nav.callbacks1_nav.prev {
   background-position: -334px 0;
   width: 96px;
   height: 96px;
+  -webkit-transition: all .5s ease-out;
+  -moz-transition: all .5s ease-out;
+  -ms-transition: all .5s ease-out;
+  -o-transition: all .5s ease-out;
+  transition: all .5s ease-out;
 }
 
 .presentation:hover{
@@ -3848,6 +3878,11 @@ a.callbacks_nav.callbacks1_nav.prev {
   background-position: -418px 0;
   width: 96px;
   height: 96px;
+  -webkit-transition: all .5s ease-out;
+  -moz-transition: all .5s ease-out;
+  -ms-transition: all .5s ease-out;
+  -o-transition: all .5s ease-out;
+  transition: all .5s ease-out;
 }
 
 .research:hover{
@@ -3860,6 +3895,11 @@ a.callbacks_nav.callbacks1_nav.prev {
   background-position: -504px 0;
   width: 96px;
   height: 96px;
+  -webkit-transition: all .5s ease-out;
+  -moz-transition: all .5s ease-out;
+  -ms-transition: all .5s ease-out;
+  -o-transition: all .5s ease-out;
+  transition: all .5s ease-out;
 }
 
 .understand:hover{
@@ -4287,5 +4327,37 @@ background: #3A5795;
     font-size: 28px;
   }
 }
+
+
+/*style for the navigation in the portfolio page*/
+
+.nav_hr {
+  margin: 10px 0;
+  border-top: 1px solid #DDE4E6;
+}
+
+.portfolio-nav .nav-btn {
+  text-align: right;
+}
+
+.portfolio-nav .button {
+  display: inline-block;
+  text-align: center;
+  padding: 0;
+  line-height: 34px;
+  max-width: 40px;
+  width: 100%;
+  cursor: pointer;
+  border-radius: 50%;
+  color: #B7C6C9;
+  font-size: 18px;
+  border: 3px solid #DDE4E6
+}
+
+.portfolio-nav .button:hover {
+  color: #ffbbe0;
+  border: 3px solid #ffbbe0
+}
+
 
 
