@@ -4088,13 +4088,13 @@ a.callbacks_nav.callbacks1_nav.prev {
     top: 25px;
   }
 
+}
 
-  /*@media screen and (max-width: 468px){
-    #open-button { 
-      top: 20px;
-    }
-  }*/
-
+/*Control the close button of the offcanvas nav*/
+@media (min-width: 480px){
+  #close-button { 
+    display: none;
+  }
 }
 
 

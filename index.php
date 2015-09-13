@@ -270,20 +270,6 @@
 						<div class="strip text-center"><img src="images/education-divider.png" alt=" "/></div>
 						<div class="edu-grids">
 							<div class="col-md-6 edu-grid">
-								<p>2009 - 2013</p><span>Graduated</span>
-								<img src="images/education-triangle.png" alt=""/>
-								<div class="edu-border">
-									<div class="edu-grid-master">
-										<h3>BACHELOR DEGREE OF ART</h3>
-										<h6>IN ARCHIVES</h6>
-										<h4>Shanghai University</h4>
-									</div>
-									<div class="edu-grid-info">
-										<h5>Studied archives science at the Department of Library, Archives and Information Science.</h5>
-									</div>
-								</div>
-							</div>
-							<div class="col-md-6 edu-grid">
 								<p>2013 - 2015</p><span>Graduated</span>
 								<img src="images/education-triangle.png" alt=""/>
 								<div class="edu-border">
@@ -294,6 +280,20 @@
 									</div>
 									<div class="edu-grid-info">
 										<h5>Studied in the area of library and information science at the Information School.</h5>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-6 edu-grid">
+								<p>2009 - 2013</p><span>Graduated</span>
+								<img src="images/education-triangle.png" alt=""/>
+								<div class="edu-border">
+									<div class="edu-grid-master">
+										<h3>BACHELOR DEGREE OF ART</h3>
+										<h6>IN ARCHIVES</h6>
+										<h4>Shanghai University</h4>
+									</div>
+									<div class="edu-grid-info">
+										<h5>Studied archives science at the Department of Library, Archives and Information Science.</h5>
 									</div>
 								</div>
 							</div>

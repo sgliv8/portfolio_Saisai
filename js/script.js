@@ -10,8 +10,6 @@ $(document).ready(function(){
 			$('html, body, .container, .content-wrap').css('overflow-y', 'hidden');
 
 		}
-		
-		
 	});
 
 	// Make the two close button work consistently
