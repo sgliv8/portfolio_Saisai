@@ -69,7 +69,7 @@
 				<div class="icon-list">
 					<a href="#" style="color: #c94e50;"><span style="font-size: 1em;">Portfolio</span></a>
 					<a href="hubtag_web.php"><i class="fa fa-fw fa-video-camera"></i><span>Hubtag Website</span></a>
-					<a href="hubtag_dash.php"><i class="fa fa-fw fa-gamepad"></i><span>Hubtag Dashboard</span></a>
+					<a href="hubtag_dash.php"><i class="fa fa-fw fa-gamepad"></i><span style="font-size: 0.59em;">Hubtag Dashboard</span></a>
 					<a href="tagether.php"><i class="fa fa-fw fa-chrome"></i><span>Tagether</span></a>
 					<a href="kapler.php"><i class="fa fa-fw fa-space-shuttle"></i><span>Kapler</span></a>
 					<a href="banana.php"><i class="fa fa-fw fa-glass"></i><span>Why not banana</span></a>
@@ -170,8 +170,8 @@
 							</div>
 							<div class="row">
 								<div class="col-md-8">
-									<a class="popup-link" href="images/old.png">
-										<img src="images/old.png" alt="old hubtag website">
+									<a class="popup-link" href="images/wireframe_dash.png">
+										<img src="images/wireframe_dash.png" alt="hubtag dashboard wireframe">
 									</a>
 								</div>
 								<div class="col-md-4">
