@@ -49,7 +49,7 @@
 				<div class="icon-list">
 					<a href="#" style="color: #c94e50;"><span style="font-size: 1em;">Portfolio</span></a>
 					<a href="hubtag_web.php"><i class="fa fa-fw fa-video-camera"></i><span>Hubtag Website</span></a>
-					<a href="hubtag_dash.php"><i class="fa fa-fw fa-gamepad"></i><span>Hubtag Dashboard</span></a>
+					<a href="hubtag_dash.php"><i class="fa fa-fw fa-gamepad"></i><span style="font-size: 0.59em;">Hubtag Dashboard</span></a>
 					<a href="tagether.php"><i class="fa fa-fw fa-chrome"></i><span>Tagether</span></a>
 					<a href="kapler.php"><i class="fa fa-fw fa-space-shuttle"></i><span>Kapler</span></a>
 					<a href="banana.php"><i class="fa fa-fw fa-glass"></i><span>Why not banana</span></a>
@@ -112,7 +112,7 @@
 							<div class="banner-right">
 								<h1>I’M QIANQIAN</h1>
 								<div class="border"></div>
-								<h2>WEB DESIGNER</h2>
+								<h2>UI/UX DESIGNER</h2>
 								<a href="qianqianwang_resume.pdf">DOWNLOAD MY RESUME</a>
 							</div>
 							<div class="clearfix"></div>

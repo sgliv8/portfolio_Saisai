@@ -229,7 +229,7 @@
 									<p>The Kapler 404 page has been used in one of the UW Online Presentation Evaluation application developed by the University of Washington Supply Chain Management and Logistics Department.</p>
 									<br><br>
 									<div class="visit_site pull-right">
-										<a href="#" target="_blank">Visit Website</a>
+										<a href="https://presenationsys.herokuapp.com/" target="_blank">Visit Website</a>
 									</div>
 									<br><br>
 								</div>
