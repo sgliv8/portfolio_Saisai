@@ -113,7 +113,7 @@
 								<h1>I’M QIANQIAN</h1>
 								<div class="border"></div>
 								<h2>UI/UX DESIGNER</h2>
-								<a href="Qianqianwang_resume.pdf">DOWNLOAD MY RESUME</a>
+								<a href="Qianqianwang__resume.pdf">DOWNLOAD MY RESUME</a>
 							</div>
 							<div class="clearfix"></div>
 						</div>
