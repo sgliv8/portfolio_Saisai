@@ -184,6 +184,11 @@ a.boxclose{
 }
 /*--/header--*/
 /*--banner--*/
+
+.banner_project {
+  background: url(../images/project-bg.jpg) no-repeat 0px 0px;
+}
+
 .banner{
 	background: url(../images/homepage-bg.jpg) no-repeat 0px 0px;
 	background-size: cover;
@@ -192,10 +197,6 @@ a.boxclose{
 	-o-background-size: cover;
 	text-align: center;
 	min-height:750px;
-}
-
-.banner_project {
-  background: url(../images/project-bg.jpg) no-repeat 0px 0px;
 }
 
 .image_size {

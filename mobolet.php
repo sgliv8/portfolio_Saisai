@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Hubtag Website | Corporate Business Redesign</title>
+	<title>Mobolet Mobile App | Mobile Application Redesign</title>
 	<!--fonts-->
 		<link href='http://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900' rel='stylesheet' type='text/css'>
 		<link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
@@ -69,7 +69,7 @@
 				<div class="icon-list">
 					<a href="#" style="color: #c94e50;"><span style="font-size: 1em;">Portfolio</span></a>
 					<a href="kidzjet_dash.php"><i class="fa fa-fw fa-paper-plane"></i><span style="font-size: 0.59em;">Kidzjet Dashboard</span></a>
-<a href="kidzjet_mobile.php"><i class="fa fa-fw fa-car"></i><span style="font-size: 0.59em;">Kidzjet Mobile</span></a>
+					<a href="kidzjet_mobile.php"><i class="fa fa-fw fa-car"></i><span style="font-size: 0.59em;">Kidzjet Mobile</span></a>
 					<a href="mobolet.php"><i class="fa fa-fw fa-shopping-bag"></i><span style="font-size: 0.59em;">Mobolet Mobile</span></a>
 					<a href="hubtag_web.php"><i class="fa fa-fw fa-video-camera"></i><span>Hubtag Website</span></a>
 					<a href="hubtag_dash.php"><i class="fa fa-fw fa-gamepad"></i><span style="font-size: 0.59em;">Hubtag Dashboard</span></a>
@@ -105,9 +105,9 @@
 						</div>
 						<div class="banner-info banner_width">
 							<div class="col-lg-6 col-md-6 col-sm-6">
-								<h1>Hubtag Website</h1>
+								<h1>Mobolet Mobile App</h1>
 								<div class="border"></div>
-								<h2>Corporate Business Redesign</h2>
+								<h2>Mobile Application Design</h2>
 							</div>
 							<div class="col-lg-6 col-md-6 col-sm-6">
 								<div class="banner_image">
@@ -286,10 +286,10 @@
 
 					<div class="row portfolio-nav" style="padding-bottom:6em;">
 	                    <div class="col-xs-7 col-md-10">
-	                    	<a class="fa fa-arrow-left button" href="mobolet.php"></a>
+	                    	<a class="fa fa-arrow-left button" href="kidzjet_mobile.php"></a>
 	                    </div>
 	                    <div class="col-xs-5 col-md-2 nav-btn">
-	                        <a class="fa fa-arrow-right button" href="hubtag_dash.php"></a>
+	                        <a class="fa fa-arrow-right button" href="hubtag_web.php"></a>
 	                    </div>
 	                </div>
 

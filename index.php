@@ -12,7 +12,7 @@
 		<!-- <link rel="shortcut icon" href="../favicon.ico"> -->
 		<link rel="stylesheet" type="text/css" href="css/normalize.css" />
 		<!-- <link rel="stylesheet" type="text/css" href="css/demo.css" /> -->
-		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.css" />
+		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.css" />
 		<link rel="stylesheet" type="text/css" href="css/menu_elastic.css" />
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/nprogress/0.2.0/nprogress.min.css">
 		<link rel="stylesheet" href="css/magnific-popup.css">
@@ -48,6 +48,9 @@
 			<nav class="menu">
 				<div class="icon-list">
 					<a href="#" style="color: #c94e50;"><span style="font-size: 1em;">Portfolio</span></a>
+					<a href="kidzjet_dash.php"><i class="fa fa-fw fa-paper-plane"></i><span style="font-size: 0.59em;">Kidzjet Dashboard</span></a>
+					<a href="kidzjet_mobile.php"><i class="fa fa-fw fa-shopping-bag"></i><span style="font-size: 0.59em;">Kidzjet Mobile</span></a>
+					<a href="mobolet.php"><i class="fa fa-fw fa-car"></i><span style="font-size: 0.59em;">Mobolet Mobile</span></a>
 					<a href="hubtag_web.php"><i class="fa fa-fw fa-video-camera"></i><span>Hubtag Website</span></a>
 					<a href="hubtag_dash.php"><i class="fa fa-fw fa-gamepad"></i><span style="font-size: 0.59em;">Hubtag Dashboard</span></a>
 					<a href="tagether.php"><i class="fa fa-fw fa-chrome"></i><span>Tagether</span></a>
