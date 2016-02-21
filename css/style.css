@@ -647,7 +647,7 @@ transition: all 0.7s ease;
   font-family: 'Lato', sans-serif;
   font-size: 22px;
   color: #fff;
-  margin-top: 115px;
+  margin-top: 90px;
 }
 .textbox p {
   font-size: 12px !important;
@@ -1896,7 +1896,7 @@ border:none;
 	  min-height: 78px;
 	}
 	.gallery-section {
-	  min-height: 1150px;
+	  min-height: 1400px;
 	  padding: 115px 0 0px 0;
 	}
 	.services-back {
@@ -1952,8 +1952,8 @@ border:none;
 	  min-height: 83px;
 	}
 	.gallery-section {
-	  min-height: 1150px;
-	  }
+	  min-height: 1350px;
+	 }
 	.process-back {
 	  min-height: 69px;
 	}
@@ -1974,6 +1974,9 @@ border:none;
     width: 72%;
     /*margin: 100px auto 0 auto;*/
   }
+  .gallery-section {
+    min-height: 1200px;
+   }
 }
 @media(max-width:1024px){
 	.top-nav {
@@ -2210,7 +2213,7 @@ border:none;
 	  font-size: 16px;
 	  }
 	.gallery-section {
-	  min-height: 900px;
+	  min-height: 1150px;
 	}
 	.process h3 {
 	  font-size: 32px;
@@ -2390,7 +2393,7 @@ border:none;
 
 @media (max-width: 990px) and (min-width: 769px) {
   .gallery-section {
-    min-height: 1350px;
+    min-height: 1850px;
   }
 }
 
@@ -2636,7 +2639,7 @@ border:none;
 	  width: 50%;
 	}
 	.gallery-section {
-	  min-height: 1150px;
+	  min-height: 1600px;
 	}
 	.textbox h4 {
 	  margin-top: 55px;
@@ -2869,7 +2872,7 @@ border:none;
 	margin-bottom:30px;
 	}
 	.gallery-section {
-	  min-height: 1000px;
+	  min-height: 1250px;
 	}
 	.process-gird {
 	  height: 134px;
@@ -2975,6 +2978,9 @@ border:none;
   .edu-grid img {
     top: 26%;
     left: 30%;
+  }
+  .gallery-section {
+    min-height: 1250px;
   }
 }
 @media(max-width:480px){

@@ -151,13 +151,41 @@
 						<div class="gallery-grids">
 							<div class="top-gallery">
 								<div class="col-md-4 col-sm-6 gallery-grid gallery1">
+									<a href="kidzjet_dash.php"><img src="images/p1.png" class="img-responsive" alt="/">
+										<div class="textbox">
+											<h4>Kidzjet Dashboard</h4>
+											<p>WEB DESIGN</p>
+											<div class="button"><a href="hubtag_web.php">VIEW</a></div>
+										</div>
+									</a>
+								</div>
+								<div class="col-md-4 col-sm-6 gallery-grid gallery1">
+									<a href="kidzjet_mobile.php"><img src="images/p1.png" class="img-responsive" alt="/">
+										<div class="textbox">
+											<h4>Kidzjet Mobile APP</h4>
+											<p>MOBILE APP DESIGN</p>
+											<div class="button"><a href="hubtag_web.php">VIEW</a></div>
+										</div>
+									</a>
+								</div>
+								<div class="col-md-4 col-sm-6 gallery-grid gallery1">
+									<a href="mobolet.php"><img src="images/p1.png" class="img-responsive" alt="/">
+										<div class="textbox">
+											<h4>Mobolet Mobile APP</h4>
+											<p>MOBILE APP DESIGN</p>
+											<div class="button"><a href="hubtag_web.php">VIEW</a></div>
+										</div>
+									</a>
+								</div>
+								<div class="col-md-4 col-sm-6 gallery-grid gallery1">
 									<a href="hubtag_web.php"><img src="images/p1.png" class="img-responsive" alt="/">
 										<div class="textbox">
 											<h4>Hubtag Website</h4>
 											<p>WEB DESIGN</p>
 											<div class="button"><a href="hubtag_web.php">VIEW</a></div>
 										</div>
-								</div></a>
+									</a>
+								</div>
 								<div class="col-md-4 col-sm-6 gallery-grid gallery1">
 									<a href="hubtag_dash.php"><img src="images/p2.png" class="img-responsive" alt="/">
 										<div class="textbox">
@@ -165,7 +193,8 @@
 											<p>WEB DESIGN</p>
 											<div class="button"><a href="hubtag_dash.php">VIEW</a></div>
 										</div>
-								</div></a>
+									</a>
+								</div>
 								<div class="col-md-4 col-sm-6 gallery-grid gallery1">
 									<a href="kapler.php"><img src="images/p3.png" class="img-responsive" alt="/">
 										<div class="textbox">
@@ -173,7 +202,8 @@
 											<p>WEB DESIGN</p>
 											<div class="button"><a href="kapler.php">VIEW</a></div>
 										</div>
-								</div></a>
+									</a>
+								</div>
 								<div class="col-md-4 col-sm-6 gallery-grid gallery1">
 									<a href="handcraft.php"><img src="images/p6.png" class="img-responsive" alt="/">
 										<div class="textbox">
@@ -181,7 +211,8 @@
 											<p>WEB DESIGN</p>
 											<div class="button"><a href="handcraft.php">VIEW</a></div>
 										</div>
-								</div></a>
+									</a>
+								</div>
 								<div class="col-md-4 col-sm-6 gallery-grid gallery1">
 									<a href="tagether.php"><img src="images/p4.png" class="img-responsive" alt="/">
 										<div class="textbox">
@@ -189,7 +220,8 @@
 											<p>APP UI DESIGN</p>
 											<div class="button"><a href="tagether.php">VIEW</a></div>
 										</div>
-								</div></a>
+									</a>
+								</div>
 								<div class="col-md-4 col-sm-6 gallery-grid gallery1">
 									<a href="banana.php"><img src="images/p5.jpg" class="img-responsive" alt="/">
 										<div class="textbox">
@@ -197,7 +229,8 @@
 											<p>WEB DESIGN</p>
 											<div class="button"><a href="banana.php">VIEW</a></div>
 										</div>
-								</div></a>
+									</a>
+								</div>
 								<div class="clearfix"> </div>
 							</div>
 								<link rel="stylesheet" href="css/swipebox.css">
