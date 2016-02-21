@@ -3945,6 +3945,11 @@ a.callbacks_nav.callbacks1_nav.prev {
   -ms-transition: all .5s ease-out;
   -o-transition: all .5s ease-out;
   transition: all .5s ease-out;
+  -moz-transform: scale(.6);
+  -webkit-transform: scale(.6);
+  -o-transform: scale(.6);
+  -ms-transform: scale(.6);
+  transform: scale(.6);
 }
 
 .communicate:hover{
@@ -3962,6 +3967,11 @@ a.callbacks_nav.callbacks1_nav.prev {
   -ms-transition: all .5s ease-out;
   -o-transition: all .5s ease-out;
   transition: all .5s ease-out;
+  -moz-transform: scale(.6);
+  -webkit-transform: scale(.6);
+  -o-transform: scale(.6);
+  -ms-transform: scale(.6);
+  transform: scale(.6);
 }
 
 .coroporate:hover{
@@ -3973,6 +3983,11 @@ a.callbacks_nav.callbacks1_nav.prev {
   -ms-transition: all .5s ease-out;
   -o-transition: all .5s ease-out;
   transition: all .5s ease-out;
+  -moz-transform: scale(.6);
+  -webkit-transform: scale(.6);
+  -o-transform: scale(.6);
+  -ms-transform: scale(.6);
+  transform: scale(.6);
 }
 
 .design{
@@ -3984,6 +3999,11 @@ a.callbacks_nav.callbacks1_nav.prev {
   -ms-transition: all .5s ease-out;
   -o-transition: all .5s ease-out;
   transition: all .5s ease-out;
+  -moz-transform: scale(.6);
+  -webkit-transform: scale(.6);
+  -o-transform: scale(.6);
+  -ms-transform: scale(.6);
+  transform: scale(.6);
 }
 
 .design:hover{
@@ -4001,6 +4021,11 @@ a.callbacks_nav.callbacks1_nav.prev {
   -ms-transition: all .5s ease-out;
   -o-transition: all .5s ease-out;
   transition: all .5s ease-out;
+  -moz-transform: scale(.6);
+  -webkit-transform: scale(.6);
+  -o-transform: scale(.6);
+  -ms-transform: scale(.6);
+  transform: scale(.6);
 }
 
 .idea:hover{
@@ -4018,6 +4043,11 @@ a.callbacks_nav.callbacks1_nav.prev {
   -ms-transition: all .5s ease-out;
   -o-transition: all .5s ease-out;
   transition: all .5s ease-out;
+  -moz-transform: scale(.6);
+  -webkit-transform: scale(.6);
+  -o-transform: scale(.6);
+  -ms-transform: scale(.6);
+  transform: scale(.6);
 }
 
 .presentation:hover{
@@ -4035,6 +4065,11 @@ a.callbacks_nav.callbacks1_nav.prev {
   -ms-transition: all .5s ease-out;
   -o-transition: all .5s ease-out;
   transition: all .5s ease-out;
+  -moz-transform: scale(.6);
+  -webkit-transform: scale(.6);
+  -o-transform: scale(.6);
+  -ms-transform: scale(.6);
+  transform: scale(.6);
 }
 
 .research:hover{
@@ -4052,6 +4087,11 @@ a.callbacks_nav.callbacks1_nav.prev {
   -ms-transition: all .5s ease-out;
   -o-transition: all .5s ease-out;
   transition: all .5s ease-out;
+  -moz-transform: scale(.6);
+  -webkit-transform: scale(.6);
+  -o-transform: scale(.6);
+  -ms-transform: scale(.6);
+  transform: scale(.6);
 }
 
 .understand:hover{

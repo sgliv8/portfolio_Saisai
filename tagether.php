@@ -115,7 +115,7 @@
 				<!--/header-banner-->
 
 				<!-- nav -->
-				<nav class="subMenu navbar-custom navbar-scroll-top" role="navigation" style="height: 150px;">
+				<nav class="subMenu navbar-custom navbar-scroll-top" role="navigation" style="height: 120px;">
 			        <div class="container">
 			            <div class="navbar-header page-scroll">
 			                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
@@ -124,7 +124,7 @@
 			            </div>
 			            <!-- Collect the nav links, forms, and other content for toggling -->
 			            <div class="collapse navbar-collapse navbar-left navbar-main-collapse" style="width: 100%;">
-			                <ul class="nav" style="padding-top: 1%;">
+			                <ul class="nav">
 			                    <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
 			                    <li class="page-scroll col-lg-2 col-md-2 col-sm-2 col-xs-2 col-lg-offset-1 col-md-offset-1 col-sm-offset-1">
 			                        <a id="s1" class="subNavBtn idea" href="#">
