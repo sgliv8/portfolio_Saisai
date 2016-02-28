@@ -255,108 +255,6 @@
 				</div>
 				<!--//portfolio-->
 
-				<!--new section-->
-				<div class="content">	
-					<div class="gallery">
-						<h3>PROJECTS</h3>
-						<div class="strip text-center"><img src="images/process-divider.png" alt=" "/></div>
-						<div class="gallery-grids">
-						<ul>
-							<li>
-								<a href="images/g1.jpg">
-									<img src="images/g1.jpg" alt="" />	
-									<div class="glry-bgd">
-									</div>
-								</a>
-							</li>
-							<li>
-								<a href="images/g2.jpg">
-									<img src="images/g2.jpg" alt="" />
-									<div class="glry-bgd">
-									</div>
-								</a>
-							</li>
-							<li class="special">
-								<a href="images/g3.jpg">
-									<img src="images/g3.jpg" alt="" />
-									<div class="glry-bgd">
-									</div>
-								</a>
-							</li>
-							<li>
-								<a href="images/g4.jpg">
-									<img src="images/g4.jpg" alt="" />	
-									<div class="glry-bgd">
-									</div>
-								</a>
-							</li>
-							<li>
-								<a href="images/g5.jpg">
-									<img src="images/g5.jpg" alt="" />								
-									<div class="glry-bgd">
-									</div>
-								</a>
-							</li>
-							<li class="special">
-								<a href="images/g6.jpg">
-									<img src="images/g6.jpg" alt="" />								
-									<div class="glry-bgd">
-									</div>
-								</a>
-							</li>
-							<li>
-								<a href="images/g7.jpg">
-									<img src="images/g7.jpg" alt="" />								
-									<div class="glry-bgd">
-									</div>
-								</a>
-							</li>
-							<li>
-								<a href="images/g8.jpg">
-									<img src="images/g8.jpg" alt="" />								
-									<div class="glry-bgd">
-									</div>
-								</a>
-							</li>
-							<li>
-								<a href="images/g9.jpg">
-									<img src="images/g9.jpg" alt="" />								
-									<div class="glry-bgd">
-									</div>
-								</a>
-							</li>
-							<li>
-								<a href="images/g10.jpg">
-									<img src="images/g10.jpg" alt="" />								
-									<div class="glry-bgd">
-									</div>
-								</a>
-							</li>
-							<li class="special">
-								<a href="images/g11.jpg">
-									<img src="images/g11.jpg" alt="" />								
-									<div class="glry-bgd">
-									</div>
-								</a>
-							</li>
-							<li>
-								<a href="images/g2.jpg">
-									<img src="images/g2.jpg" alt="" />								
-									<div class="glry-bgd">
-									</div>
-								</a>
-							</li>
-						</ul>
-						<div class="clearfix"> </div>
-					</div>	
-				</div>
-				<!--//gallery -->
-				<!--//new section-->
-
-				<div class="strip-border"><p></p></div>
-
-				<div class="services-back"></div>
-				<!-- <div class="about-back"></div> -->
 				<!--my skill-->
 				<div class="my-skills text-center">
 					<div class="container">
@@ -422,6 +320,180 @@
 					</div>	
 				</div>
 				<!--//my skill-->
+
+				<!--new section-->
+				<div class="content">	
+					<div class="gallery">
+						<div class="gallery-grids">
+						<ul>
+							<li class="gallery2">
+								<div>
+									<img src="images/g1.jpg" alt="" />	
+									<div class="glry-bgd">
+									</div>
+								</div>
+								<div class="textbox">
+									<a href="images/g1.jpg">
+										<h4>Kidzjet Dashboard</h4>
+										<p>WEB DESIGN</p>
+									</a>
+								</div>
+							</li>
+							<li class="gallery2">
+								<div>
+									<img src="images/g2.jpg" alt="" />
+									<div class="glry-bgd">
+									</div>
+								</div>
+								<div class="textbox">
+									<a href="images/g2.jpg">
+										<h4>Kidzjet Dashboard</h4>
+										<p>WEB DESIGN</p>
+									</a>
+								</div>
+							</li>
+							<li class="gallery2">
+								<div>
+									<img src="images/g3.png" alt="" />
+									<div class="glry-bgd">
+									</div>
+								</div>
+								<div class="textbox">
+									<a href="images/g3.png">
+										<h4>Kidzjet Dashboard</h4>
+										<p>WEB DESIGN</p>
+									</a>
+								</div>
+							</li>
+							<li class="gallery2">
+								<div>
+									<img src="images/g4.jpg" alt="" />	
+									<div class="glry-bgd">
+									</div>
+								</div>
+								<div class="textbox">
+									<a href="images/g4.jpg">
+										<h4>Kidzjet Dashboard</h4>
+										<p>WEB DESIGN</p>
+									</a>
+								</div>
+							</li>
+							<li class="gallery2">
+								<div>
+									<img src="images/g5.png" alt="" />	
+									<div class="glry-bgd">
+									</div>
+								</div>
+								<div class="textbox">
+									<a href="images/g5.png">
+										<h4>Kidzjet Dashboard</h4>
+										<p>WEB DESIGN</p>
+									</a>
+								</div>
+							</li>
+
+							<li class="gallery2">
+								<div>
+									<img src="images/g6.jpg" alt="" />	
+									<div class="glry-bgd">
+									</div>
+								</div>
+								<div class="textbox">
+									<a href="images/g6.jpg">
+										<h4>Kidzjet Dashboard</h4>
+										<p>WEB DESIGN</p>
+									</a>
+								</div>
+							</li>
+							<li class="gallery2">
+								<div>
+									<img src="images/g7.jpg" alt="" />								
+									<div class="glry-bgd">
+									</div>
+								</div>
+								<div class="textbox">
+									<a href="images/g7.jpg">
+										<h4>Kidzjet Dashboard</h4>
+										<p>WEB DESIGN</p>
+									</a>
+								</div>
+							</li>
+							<li class="gallery2">
+								<div>
+									<img src="images/g8.jpg" alt="" />								
+									<div class="glry-bgd">
+									</div>
+								</div>
+								<div class="textbox">
+									<a href="images/g8.jpg">
+										<h4>Kidzjet Dashboard</h4>
+										<p>WEB DESIGN</p>
+									</a>
+								</div>
+							</li>
+							<li class="gallery2">
+								<div>
+									<img src="images/g9.png" alt="" />								
+									<div class="glry-bgd">
+									</div>
+								</div>
+								<div class="textbox">
+									<a href="images/g9.png">
+										<h4>Kidzjet Dashboard</h4>
+										<p>WEB DESIGN</p>
+									</a>
+								</div>
+							</li>
+							<li class="gallery2">
+								<div>
+									<img src="images/g10.jpg" alt="" />								
+									<div class="glry-bgd">
+									</div>
+								</div>
+								<div class="textbox">
+									<a href="images/g10.jpg">
+										<h4>Kidzjet Dashboard</h4>
+										<p>WEB DESIGN</p>
+									</a>
+								</div>
+							</li>
+							<li class="gallery2">
+								<div>
+									<img src="images/g2.jpg" alt="" />								
+									<div class="glry-bgd">
+									</div>
+								</div>
+								<div class="textbox">
+									<a href="images/g2.jpg">
+										<h4>Kidzjet Dashboard</h4>
+										<p>WEB DESIGN</p>
+									</a>
+								</div>
+							</li>
+							<li class="gallery2">
+								<div>
+									<img src="images/g1.jpg" alt="" />								
+									<div class="glry-bgd">
+									</div>
+								</div>
+								<div class="textbox">
+									<a href="images/g1.jpg">
+										<h4>Kidzjet Dashboard</h4>
+										<p>WEB DESIGN</p>
+									</a>
+								</div>
+							</li>
+						</ul>
+						<div class="clearfix"> </div>
+					</div>	
+				</div>
+				<!--//gallery -->
+				<!--//new section-->
+
+				<div class="strip-border"><p></p></div>
+
+				<!-- <div class="services-back"></div> -->
+				<!-- <div class="about-back"></div> -->
 
 				<!--footer-->
 				<div class="footer">
