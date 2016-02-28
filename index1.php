@@ -333,8 +333,8 @@
 									</div>
 								</div>
 								<div class="textbox">
-									<a href="images/g1.png">
-										<h4>Kidzjet Dashboard</h4>
+									<a href="images/g1_l.png">
+										<h4>QoffeeColors</h4>
 										<p>WEB DESIGN</p>
 									</a>
 								</div>
@@ -347,46 +347,46 @@
 								</div>
 								<div class="textbox">
 									<a href="images/g2.jpg">
-										<h4>Kidzjet Dashboard</h4>
+										<h4>Saving APP</h4>
+										<p>MOBILE APP DESIGN</p>
+									</a>
+								</div>
+							</li>
+							<li class="gallery2">
+								<div>
+									<img src="images/g3.jpg" alt="" />
+									<div class="glry-bgd">
+									</div>
+								</div>
+								<div class="textbox">
+									<a href="images/g3_l.jpg">
+										<h4>Photograph Portfolio</h4>
 										<p>WEB DESIGN</p>
 									</a>
 								</div>
 							</li>
 							<li class="gallery2">
 								<div>
-									<img src="images/g3.png" alt="" />
+									<img src="images/g4.png" alt="" />	
 									<div class="glry-bgd">
 									</div>
 								</div>
 								<div class="textbox">
-									<a href="images/g3.png">
-										<h4>Kidzjet Dashboard</h4>
-										<p>WEB DESIGN</p>
+									<a href="images/g4.png">
+										<h4>Shopping List APP</h4>
+										<p>MATERIAL DESIGN</p>
 									</a>
 								</div>
 							</li>
 							<li class="gallery2">
 								<div>
-									<img src="images/g4.jpg" alt="" />	
+									<img src="images/g5.jpg" alt="" />	
 									<div class="glry-bgd">
 									</div>
 								</div>
 								<div class="textbox">
-									<a href="images/g4.jpg">
-										<h4>Kidzjet Dashboard</h4>
-										<p>WEB DESIGN</p>
-									</a>
-								</div>
-							</li>
-							<li class="gallery2">
-								<div>
-									<img src="images/g5.png" alt="" />	
-									<div class="glry-bgd">
-									</div>
-								</div>
-								<div class="textbox">
-									<a href="images/g5.png">
-										<h4>Kidzjet Dashboard</h4>
+									<a href="images/g5.jpg">
+										<h4>Portfolio Webiste</h4>
 										<p>WEB DESIGN</p>
 									</a>
 								</div>
@@ -394,14 +394,14 @@
 
 							<li class="gallery2">
 								<div>
-									<img src="images/g6.jpg" alt="" />	
+									<img src="images/g6.png" alt="" />	
 									<div class="glry-bgd">
 									</div>
 								</div>
 								<div class="textbox">
-									<a href="images/g6.jpg">
-										<h4>Kidzjet Dashboard</h4>
-										<p>WEB DESIGN</p>
+									<a href="images/g6_l.png">
+										<h4>Self-learning Icon</h4>
+										<p>ILLUSTRATION</p>
 									</a>
 								</div>
 							</li>
@@ -412,35 +412,35 @@
 									</div>
 								</div>
 								<div class="textbox">
-									<a href="images/g7.jpg">
-										<h4>Kidzjet Dashboard</h4>
-										<p>WEB DESIGN</p>
+									<a href="images/g7_l.jpg">
+										<h4>OS Application</h4>
+										<p>WIREFRAME DESIGN</p>
 									</a>
 								</div>
 							</li>
 							<li class="gallery2">
 								<div>
-									<img src="images/g8.jpg" alt="" />								
+									<img src="images/g8.png" alt="" />								
 									<div class="glry-bgd">
 									</div>
 								</div>
 								<div class="textbox">
-									<a href="images/g8.jpg">
-										<h4>Kidzjet Dashboard</h4>
-										<p>WEB DESIGN</p>
+									<a href="images/g8_l.png">
+										<h4>Coffee Emoji</h4>
+										<p>ILLUSTRATION</p>
 									</a>
 								</div>
 							</li>
 							<li class="gallery2">
 								<div>
-									<img src="images/g9.png" alt="" />								
+									<img src="images/g9.jpg" alt="" />								
 									<div class="glry-bgd">
 									</div>
 								</div>
 								<div class="textbox">
-									<a href="images/g9.png">
-										<h4>Kidzjet Dashboard</h4>
-										<p>WEB DESIGN</p>
+									<a href="images/g9_l.jpg">
+										<h4>Marinara Bagel</h4>
+										<p>ILLUSTRATION</p>
 									</a>
 								</div>
 							</li>
@@ -451,35 +451,35 @@
 									</div>
 								</div>
 								<div class="textbox">
-									<a href="images/g10.jpg">
-										<h4>Kidzjet Dashboard</h4>
+									<a href="images/g10_l.jpg">
+										<h4>Go Camping</h4>
+										<p>ILLUSTRATION</p>
+									</a>
+								</div>
+							</li>
+							<li class="gallery2">
+								<div>
+									<img src="images/g11.jpg" alt="" />								
+									<div class="glry-bgd">
+									</div>
+								</div>
+								<div class="textbox">
+									<a href="images/g11_l.jpg">
+										<h4>Gratitude Log</h4>
 										<p>WEB DESIGN</p>
 									</a>
 								</div>
 							</li>
 							<li class="gallery2">
 								<div>
-									<img src="images/g2.jpg" alt="" />								
+									<img src="images/g12.png" alt="" />								
 									<div class="glry-bgd">
 									</div>
 								</div>
 								<div class="textbox">
-									<a href="images/g2.jpg">
-										<h4>Kidzjet Dashboard</h4>
-										<p>WEB DESIGN</p>
-									</a>
-								</div>
-							</li>
-							<li class="gallery2">
-								<div>
-									<img src="images/g4.jpg" alt="" />								
-									<div class="glry-bgd">
-									</div>
-								</div>
-								<div class="textbox">
-									<a href="images/g4.jpg">
-										<h4>Kidzjet Dashboard</h4>
-										<p>WEB DESIGN</p>
+									<a href="images/g12_l.png">
+										<h4>Rock and Roll</h4>
+										<p>ILLUSTRATION</p>
 									</a>
 								</div>
 							</li>
