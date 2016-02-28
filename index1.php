@@ -322,18 +322,18 @@
 				<!--//my skill-->
 
 				<!--new section-->
-				<div class="content">	
+				<div id="projects" style="margin-top: -42px;">	
 					<div class="gallery">
 						<div class="gallery-grids">
 						<ul>
 							<li class="gallery2">
 								<div>
-									<img src="images/g1.jpg" alt="" />	
+									<img src="images/g1.png" alt="" />	
 									<div class="glry-bgd">
 									</div>
 								</div>
 								<div class="textbox">
-									<a href="images/g1.jpg">
+									<a href="images/g1.png">
 										<h4>Kidzjet Dashboard</h4>
 										<p>WEB DESIGN</p>
 									</a>
@@ -472,12 +472,12 @@
 							</li>
 							<li class="gallery2">
 								<div>
-									<img src="images/g1.jpg" alt="" />								
+									<img src="images/g4.jpg" alt="" />								
 									<div class="glry-bgd">
 									</div>
 								</div>
 								<div class="textbox">
-									<a href="images/g1.jpg">
+									<a href="images/g4.jpg">
 										<h4>Kidzjet Dashboard</h4>
 										<p>WEB DESIGN</p>
 									</a>
