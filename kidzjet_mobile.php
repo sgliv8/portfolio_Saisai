@@ -135,11 +135,11 @@
 			                    <li class="page-scroll col-lg-2 col-md-2 col-sm-2 col-xs-2 col-lg-offset-1 col-md-offset-1 col-sm-offset-1">
 			                        <a id="s1" class="subNavBtn understand" href="#">
 			                        </a>
-			                        <span>Understand</span>
+			                        <span>Idea</span>
 			                    </li>
 			                    <li class="page-scroll col-lg-2 col-md-2 col-sm-2">
 			                        <a id="s2" class="subNavBtn idea" href="#"></a>
-			                        <span style="padding-left: 33px;">Idea</span>
+			                        <span style="padding-left: 33px;">Wireframe</span>
 			                    </li>
 			                    <li class="page-scroll col-lg-2 col-md-2 col-sm-2">
 			                        <a id="s3" class="subNavBtn design" href="#"></a>
@@ -148,10 +148,6 @@
 			                    <li class="page-scroll col-lg-2 col-md-2 col-sm-2">
 			                        <a id="s4" class="subNavBtn communicate" href="#"></a>
 			                        <span style="padding-left: 6px;">Cooperation</span>
-			                    </li>
-			                    <li class="page-scroll col-lg-2 col-md-2 col-sm-2">
-			                        <a id="s4" class="subNavBtn coroporate" href="#"></a>
-			                        <span>UI Testing</span>
 			                    </li>
 			                </ul>
 			            </div>
@@ -165,20 +161,13 @@
 					<div class="section s1 extra_top_pad" style="margin-bottom: 3em;">
 						<div class="container">
 							<div class="row">
-								<div class="col-md-offset-8" style="padding-left: 1.2em;">
-									<img src="images/understand.png" alt="understand" style="display: inline-block; width: 55px;">
-									<h1 style="display: inline-block; vertical-align: middle; padding-left: 10px; font-size: 20px; font-weight: 700; color: #ffbbe0;">Understand</h1>
-								</div>
-								<br>
-							</div>
-							<div class="row">
-								<div class="col-md-8">
-									<a class="popup-link" href="images/old.png">
-										<img src="images/old.png" alt="old hubtag website">
-									</a>
-								</div>
-								<div class="col-md-4">
-									<p>Hubtag LLC is an early stage startup in the Great Seattle Area. It is an eSport technology company that provides resources and broadcast solutions for video gamers. Recently Hubtag released the first generation live streaming software and the web dashboard for the gamers. They wanted to redesign a new landing page to coincide with the dashboard for the live streaming software.</p>
+								<div class="col-md-12">
+									<div>
+										<img src="images/idea.png" alt="idea" style="display: inline-block; width: 55px;">
+										<h1 style="display: inline-block; vertical-align: middle; padding-left: 10px; font-size: 20px; font-weight: 700; color: #ffbbe0;">Idea</h1>
+									</div>
+									<br>
+									<p>The fact that I have a big collection of handcrafts was just one of many factors that made working on this project a must! I had a deep understanding of the handcrafts’ target audience -- it was well represented in my cabinet. So I desire to design a single page eCommerce website with elegant look and feel that I am able to share all the handcrafts that I like with others.</p>
 									<br><br>
 								</div>
 							</div>	

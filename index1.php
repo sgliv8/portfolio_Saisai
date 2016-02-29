@@ -165,16 +165,16 @@
 										<div class="textbox">
 											<h4>Kidzjet Dashboard</h4>
 											<p>WEB DESIGN</p>
-											<div class="button"><a href="hubtag_web.php">VIEW</a></div>
+											<div class="button"><a href="kidzjet_dash.php">VIEW</a></div>
 										</div>
 									</a>
 								</div>
 								<div class="col-md-4 col-sm-6 gallery-grid gallery1">
-									<a href="kidzjet_mobile.php"><img src="images/p1.png" class="img-responsive" alt="/">
+									<a href="kidzjet_mobile.php"><img src="images/kidzjet-mobile.jpg" class="img-responsive" alt="/">
 										<div class="textbox">
 											<h4>Kidzjet Mobile APP</h4>
 											<p>MOBILE APP DESIGN</p>
-											<div class="button"><a href="hubtag_web.php">VIEW</a></div>
+											<div class="button"><a href="kidzjet_mobile.php">VIEW</a></div>
 										</div>
 									</a>
 								</div>
@@ -183,7 +183,7 @@
 										<div class="textbox">
 											<h4>Mobolet Mobile APP</h4>
 											<p>MOBILE APP DESIGN</p>
-											<div class="button"><a href="hubtag_web.php">VIEW</a></div>
+											<div class="button"><a href="mobolet_mobile.php">VIEW</a></div>
 										</div>
 									</a>
 								</div>
