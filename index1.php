@@ -179,7 +179,7 @@
 									</a>
 								</div>
 								<div class="col-md-4 col-sm-6 gallery-grid gallery1">
-									<a href="mobolet.php"><img src="images/p1.png" class="img-responsive" alt="/">
+									<a href="mobolet.php"><img src="images/hand_mobolet small.jpg" class="img-responsive" alt="/">
 										<div class="textbox">
 											<h4>Mobolet Mobile APP</h4>
 											<p>MOBILE APP DESIGN</p>
