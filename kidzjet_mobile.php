@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Kidzjet Mobile App | Mobile Application Redesign</title>
+	<title>Kidzjet Mobile App | Mobile Application Design</title>
 	<!--fonts-->
 		<link href='http://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900' rel='stylesheet' type='text/css'>
 		<link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
@@ -16,6 +16,7 @@
 		<link rel="stylesheet" type="text/css" href="css/menu_elastic.css" />
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/nprogress/0.2.0/nprogress.min.css">
 		<link rel="stylesheet" href="css/magnific-popup.css">
+		<link type="text/css" href="css/bottom.css" rel="stylesheet" />
 	<!-- for-mobile-apps -->
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -31,6 +32,7 @@
 		<script type="text/javascript" src="js/easing.js"></script>
 		<script src="js/snap.svg-min.js"></script>
 		<script type="text/javascript" 	src="js/jquery.smint.js"></script>
+		<script type="text/javascript" src="js/jquery.pikachoose.min.js"></script>
 		<script type="text/javascript">
 			$(document).ready(function($) {
 				$(".scroll").click(function(event){		
@@ -41,6 +43,9 @@
 				$('.subMenu').smint({
 			    	'scrollSpeed' : 1000
 			    });
+
+				//Call the pikaChoose function for slideshow plugin initialization
+					$("#pikame").PikaChoose();
 			});
 		</script>
 
@@ -107,11 +112,11 @@
 							<div class="col-lg-6 col-md-6 col-sm-6">
 								<h1>Kidzjet Mobile App</h1>
 								<div class="border"></div>
-								<h2>Mobile Application Redesign</h2>
+								<h2>Mobile Application Design</h2>
 							</div>
 							<div class="col-lg-6 col-md-6 col-sm-6">
 								<div class="banner_image">
-									<img src="images/hubtag-browser.png" alt="hubtag_website" class="image_size" style="max-width:none;">
+									<img src="images/kidzjet_p.png" alt="hubtag_website" class="image_size" style="max-width:none;">
 								</div>
 							</div>
 							<div class="clearfix"></div>
@@ -132,7 +137,7 @@
 			            <div class="collapse navbar-collapse navbar-left navbar-main-collapse" style="width: 100%;">
 			                <ul class="nav">
 			                    <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
-			                    <li class="page-scroll col-lg-2 col-md-2 col-sm-2 col-xs-2 col-lg-offset-1 col-md-offset-1 col-sm-offset-1">
+			                    <li class="page-scroll col-lg-2 col-md-2 col-sm-2 col-xs-2 col-lg-offset-2 col-md-offset-2 col-sm-offset-2">
 			                        <a id="s1" class="subNavBtn understand" href="#">
 			                        </a>
 			                        <span>Idea</span>
@@ -178,21 +183,22 @@
 					<div class="section s2 extra-padding">
 						<div class="container">
 							<div class="row">
-								<div class="col-md-4">
-									<div>
-										<img src="images/idea.png" alt="Idea" style="display: inline-block; width: 55px;">
-										<h1 style="display: inline-block; vertical-align: middle; padding-left: 10px; font-size: 20px; font-weight: 700; color: #ffbbe0;">Idea</h1>
-									</div>
-									<br>
-									<p>After the communication with the client, I came up with a resolution based on the current color scheme and the style of the dashboard to design a more user friendly, robust and contemporary appearance of the new landing page. Then we mapped out all the pages, including homepage, about page, Caster page and support page, that we are going to redesign and determined the content of each section of a specific page.</p>
-									<br><br>
+								<div class="col-md-offset-8" style="padding-left: 1.2em;">
+									<img src="images/understand.png" alt="understand" style="display: inline-block; width: 55px;">
+									<h1 style="display: inline-block; vertical-align: middle; padding-left: 10px; font-size: 20px; font-weight: 700; color: #ffbbe0;">WIREFRAME</h1>
 								</div>
+								<br>
+							</div>
+							<div class="row">
 								<div class="col-md-8">
-									<a class="popup-link" href="images/wireframe_web.png">
-										<img src="images/wireframe_web.png" alt="hubtag website wireframe">
+									<a class="popup-link" href="images/wireframe_dash.png">
+										<img src="images/kidzjet_sitemap.png" alt="hubtag dashboard wireframe">
 									</a>
 								</div>
-								
+								<div class="col-md-4">
+									<p>Hubtag is going to launch their live streaming software for gamers. In order to bring gamers better user experience, the company decided to develop a web-based dashboard to simplify the management of the software. After getting the data from user research, the client had a clear understanding of what functionalities they want on the dashboard.</p>
+									<br><br>
+								</div>
 							</div>	
 						</div>
 					</div>
@@ -202,24 +208,9 @@
 					<div class="section s3 extra-padding">
 						<div class="container">
 							<div class="row">
-								<div class="col-md-offset-8" style="padding-left: 1.2em;">
+								<div class="col-md-5">
 									<img src="images/design.png" alt="Idea" style="display: inline-block; width: 55px;">
 									<h1 style="display: inline-block; vertical-align: middle; padding-left: 10px; font-size: 20px; font-weight: 700; color: #ffbbe0;">Design</h1>
-								</div>
-								<br>
-							</div>
-							<div class="row">
-								<div class="col-md-8">
-									<a class="popup-link" href="images/hubtag_home.jpg">
-										<img src="images/hubtag_home.jpg" alt="hubtag home page" class="img_shadow">
-									</a>
-									<p style="margin-bottom: 3em;"></p>
-									<a class="popup-link" href="images/hubtag_about.jpg">
-										<img src="images/hubtag_about.jpg" alt="hubtag about page" class="img_shadow">
-									</a>
-									<p style="margin-bottom: 3em;"></p>
-								</div>
-								<div class="col-md-4">
 									<div class="tags">
 			                            <ul class="tag">
 			                            	<li><a>Photoshop</a></li>
@@ -235,17 +226,20 @@
 									<br><br>
 									<p>To maintain the consistency of the homepage, an introduction and showcase section of the software is designed followed by the welcome section.</p>
 									<br><br>
-									<p class="pad_4"></p>
-									<p>The promotion section including all the features of the software, are featured prominently and allow visitors to quickly grasp the idea of the latest characteristics of Caster.</p>
-									<br><br>
-									<p class="pad_9"></p>
-									<p>A stylish and customizable section is designed to highlight Hubtag Academy, a unique business value and perspective for the live streaming gamers.</p>
-									<br><br>
-									<p class="pad_9"></p>
-									<p class="pad_9"></p>
-									<p class="pad_9"></p>
-									<p>An elegant and customized section is designed to introduce members of Hubtag, each employee has an unique and interest-oriented background image to bring a lively feel to visitors.</p>
-									<br><br>
+								</div>
+								<div class="col-md-offset-1 col-md-6">
+									<ul id="pikame" class="jcarousel-skin-pika">
+										<li><a href="#"><img src="images/k1.png"/></a><span>Login Screen</span></li>
+										<li><a href="#"><img src="images/k2.png"/></a><span>Landing Page</span></li>
+										<li><a href="#"><img src="images/k3.png"/></a><span>Add New Trip</span></li>
+										<li><a href="#"><img src="images/k4.png"/></a><span>Live Tracking</span></li>
+										<li><a href="#"><img src="images/k5.png"/></a><span>Tracking Detail</span></li>
+										<li><a href="#"><img src="images/k6.png"/></a><span>Driver Info</span></li>
+										<li><a href="#"><img src="images/k7.png"/></a><span>Trip Management</span></li>
+										<li><a href="#"><img src="images/k8.png"/></a><span>Profile</span></li>
+										<li><a href="#"><img src="images/k9.png"/></a><span>Payment</span></li>
+									</ul>
+									<p style="margin-bottom: 3em;"></p>
 								</div>
 							</div>	
 						</div>
@@ -260,11 +254,7 @@
 										<h1 style="display: inline-block; vertical-align: middle; padding-left: 10px; font-size: 20px; font-weight: 700; color: #ffbbe0;">Cooperation</h1>
 									</div>
 									<br>
-									<p>I collaborate with the front end developer of the company to bring the new design website to live.</p>
-									<br><br>
-									<div class="visit_site pull-right">
-										<a href="http://test2.hubtag.net/home/" target="_blank">Visit Website</a>
-									</div>
+									<p>I collaborate with the mobile application developer of the company to bring the new design mobile application to live.</p>
 									<br><br>
 								</div>
 							</div>	
