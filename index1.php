@@ -161,15 +161,6 @@
 						<div class="gallery-grids">
 							<div class="top-gallery">
 								<div class="col-md-4 col-sm-6 gallery-grid gallery1">
-									<a href="kidzjet_dash.php"><img src="images/p1.png" class="img-responsive" alt="/">
-										<div class="textbox">
-											<h4>Kidzjet Dashboard</h4>
-											<p>WEB DESIGN</p>
-											<div class="button"><a href="kidzjet_dash.php">VIEW</a></div>
-										</div>
-									</a>
-								</div>
-								<div class="col-md-4 col-sm-6 gallery-grid gallery1">
 									<a href="kidzjet_mobile.php"><img src="images/kidzjet-mobile.jpg" class="img-responsive" alt="/">
 										<div class="textbox">
 											<h4>Kidzjet Mobile APP</h4>
@@ -179,11 +170,20 @@
 									</a>
 								</div>
 								<div class="col-md-4 col-sm-6 gallery-grid gallery1">
+									<a href="kidzjet_dash.php"><img src="images/kidzjet-dashboard-small.jpg" class="img-responsive" alt="/">
+										<div class="textbox">
+											<h4>Kidzjet Dashboard</h4>
+											<p>WEB DESIGN</p>
+											<div class="button"><a href="kidzjet_dash.php">VIEW</a></div>
+										</div>
+									</a>
+								</div>
+								<div class="col-md-4 col-sm-6 gallery-grid gallery1">
 									<a href="mobolet.php"><img src="images/hand_mobolet small.jpg" class="img-responsive" alt="/">
 										<div class="textbox">
 											<h4>Mobolet Mobile APP</h4>
 											<p>MOBILE APP DESIGN</p>
-											<div class="button"><a href="mobolet_mobile.php">VIEW</a></div>
+											<div class="button"><a href="mobolet.php">VIEW</a></div>
 										</div>
 									</a>
 								</div>
