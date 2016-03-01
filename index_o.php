@@ -17,7 +17,7 @@
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/nprogress/0.2.0/nprogress.min.css">
 		<link rel="stylesheet" href="css/magnific-popup.css">
 	<!-- for-mobile-apps -->
-		<meta name='viewport' content='width=device-width, maximum-scale=1.0, minimum-scale=1.0, initial-scale=1.0' />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 	<!-- //for-mobile-apps -->
@@ -39,16 +39,6 @@
 			});
 		</script>
 	<!-- start-smooth-scrolling -->
-	<!--gallery-->
-	<script src="js/jquery.chocolat.js"></script>
-		<link rel="stylesheet" href="css/chocolat.css" type="text/css" media="screen">
-		<!--light-box-files -->
-		<script type="text/javascript">
-		$(function() {
-			$('.gallery a').Chocolat();
-		});
-		</script>
-	<!--/gallery-->
 
 </head>
 <body>
@@ -58,8 +48,8 @@
 			<nav class="menu">
 				<div class="icon-list">
 					<a href="#" style="color: #c94e50;"><span style="font-size: 1em;">Portfolio</span></a>
-					<a href="kidzjet_mobile.php"><i class="fa fa-fw fa-shopping-bag"></i><span style="font-size: 0.59em;">Kidzjet Mobile</span></a>
 					<a href="kidzjet_dash.php"><i class="fa fa-fw fa-paper-plane"></i><span style="font-size: 0.59em;">Kidzjet Dashboard</span></a>
+					<a href="kidzjet_mobile.php"><i class="fa fa-fw fa-shopping-bag"></i><span style="font-size: 0.59em;">Kidzjet Mobile</span></a>
 					<a href="mobolet.php"><i class="fa fa-fw fa-car"></i><span style="font-size: 0.59em;">Mobolet Mobile</span></a>
 					<a href="hubtag_web.php"><i class="fa fa-fw fa-video-camera"></i><span>Hubtag Website</span></a>
 					<a href="hubtag_dash.php"><i class="fa fa-fw fa-gamepad"></i><span style="font-size: 0.59em;">Hubtag Dashboard</span></a>
@@ -139,7 +129,7 @@
 						<h3>ABOUT ME</h3>
 						<div class="strip text-center"><img src="images/about-divider.png" alt=" "/></div>
 						<div class="col-md-offset-1 col-md-10">
-							<p style="text-align: left;">I have always been a person fascinated with visual design.  Even at a young age, I took every opportunity to help in designing posters and newspapers for my schools. Presently, with my library science background and web development knowledge, I possess a unique understanding of the nuances needed to satisfy user demand for information and how visual design affects their experience. In past few years, I have focused on incorporating the latest design trends, which have expanded my skillset.  I take great pride in my ability to think outside the box, and my attention to details have always generated successful results of an improved user experience. </p>
+							<p style="text-align: left;">You will never know how a little interest could affect your life. Just like a child who was always sell herself in school for designing posters and newspapers, and fascinated by visual design field in her youth, now pursue her career path of web designer for whole life. To my surprise, thanks to my library science background and basic web development knowledge, I am able to better understand the gap between user demand of information and visual design. In past few years, I have persisted in focusing on the latest design trend and practicing my ideation skill. Thinking out of box and detailing are something I take pride with my work; the small finishing touches can really bring out the final experience! </p>
 
 							<ul>
 								<li><a class="linkedin" href="https://www.linkedin.com/in/qianqianwang222"><i class="fa fa-linkedin"></i></a></li>
@@ -161,29 +151,29 @@
 						<div class="gallery-grids">
 							<div class="top-gallery">
 								<div class="col-md-4 col-sm-6 gallery-grid gallery1">
-									<a href="kidzjet_mobile.php"><img src="images/kidzjet-mobile.jpg" class="img-responsive" alt="/">
-										<div class="textbox">
-											<h4>Kidzjet Mobile APP</h4>
-											<p>MOBILE APP DESIGN</p>
-											<div class="button"><a href="kidzjet_mobile.php">VIEW</a></div>
-										</div>
-									</a>
-								</div>
-								<div class="col-md-4 col-sm-6 gallery-grid gallery1">
-									<a href="kidzjet_dash.php"><img src="images/kidzjet-dashboard-small.jpg" class="img-responsive" alt="/">
+									<a href="kidzjet_dash.php"><img src="images/p1.png" class="img-responsive" alt="/">
 										<div class="textbox">
 											<h4>Kidzjet Dashboard</h4>
 											<p>WEB DESIGN</p>
-											<div class="button"><a href="kidzjet_dash.php">VIEW</a></div>
+											<div class="button"><a href="hubtag_web.php">VIEW</a></div>
 										</div>
 									</a>
 								</div>
 								<div class="col-md-4 col-sm-6 gallery-grid gallery1">
-									<a href="mobolet.php"><img src="images/hand_mobolet small.jpg" class="img-responsive" alt="/">
+									<a href="kidzjet_mobile.php"><img src="images/p1.png" class="img-responsive" alt="/">
+										<div class="textbox">
+											<h4>Kidzjet Mobile APP</h4>
+											<p>MOBILE APP DESIGN</p>
+											<div class="button"><a href="hubtag_web.php">VIEW</a></div>
+										</div>
+									</a>
+								</div>
+								<div class="col-md-4 col-sm-6 gallery-grid gallery1">
+									<a href="mobolet.php"><img src="images/p1.png" class="img-responsive" alt="/">
 										<div class="textbox">
 											<h4>Mobolet Mobile APP</h4>
 											<p>MOBILE APP DESIGN</p>
-											<div class="button"><a href="mobolet.php">VIEW</a></div>
+											<div class="button"><a href="hubtag_web.php">VIEW</a></div>
 										</div>
 									</a>
 								</div>
@@ -254,7 +244,105 @@
 					</div>
 				</div>
 				<!--//portfolio-->
+								<!--process-->
+				<div class="process text-center">
+					<div class="container">
+						<h3>PROCESS</h3>
+						<div class="strip text-center"><img src="images/process-divider.png" alt=" "/></div>
+						<div class="process-girds">
+							<div class="col-md-2 process-pad">
+								<div class="process-gird">
+									<div class="process-imagea"></div>
+									<p>UNDERSTAND</p>
+									<img src="images/6.png" alt=""/>
+								</div>
+							</div>
+							<div class="col-md-2 process-pad">
+								<div class="process-gird">
+									<div class="process-imageb"></div>
+									<p>IDEA</p>
+									<img class="pro-imga" src="images/6.png" alt=""/>
+								</div>
+							</div>
+							<div class="col-md-2 process-pad">
+								<div class="process-gird">
+									<div class="process-imagec"></div>
+									<p>DESIGN</p>
+									<img class="pro-img" src="images/6.png" alt=""/>
+								</div>
+							</div>
+							<div class="col-md-2 process-pad">
+								<div class="process-gird">
+									<div class="process-imaged"></div>
+									<p>COOPERATE</p>
+									<img class="pro-imgb" src="images/6.png" alt=""/>
+								</div>
+							</div>
+							<div class="col-md-2 process-pad">
+								<div class="process-gird">
+									<div class="process-imagee"></div>
+									<p>TEST</p>
+									<img src="images/6.png" alt=""/>
+								</div>
+							</div>
+							<div class="col-md-2 process-pad">
+								<div class="process-gird">
+									<div class="process-imagef"></div>
+									<p>LAUNCH</p>
+									
+								</div>
+							</div>
+							<div class="clearfix"></div>
+						</div>
+					</div>
+				</div>
+				<!--//process-->
+								<!--education--> 
+				<div class="education text-center">
+					<div class="container">
+						<div class="edu-info">
+							<h3>EDUCATION</h3>
+						</div>
+						<div class="strip text-center"><img src="images/education-divider.png" alt=" "/></div>
+						<div class="edu-grids">
+							<div class="col-md-6 edu-grid">
+								<p>2013 - 2015</p><span>Graduated</span>
+								<img src="images/education-triangle.png" alt=""/>
+								<div class="edu-border">
+									<div class="edu-grid-master">
+										<h3>MASTER DEGREE OF LIBRARY AND</h3>
+										<h6>INFORMATION SCIENCE</h6>
+										<h4>University of Washington</h4>
+									</div>
+									<div class="edu-grid-info">
+										<h5>Studied in the area of library and information science at the Information School.</h5>
+									</div>
+								</div>
+							</div>
+							<div class="col-md-6 edu-grid">
+								<p>2009 - 2013</p><span>Graduated</span>
+								<img src="images/education-triangle.png" alt=""/>
+								<div class="edu-border">
+									<div class="edu-grid-master">
+										<h3>BACHELOR DEGREE OF ART</h3>
+										<h6>IN ARCHIVES</h6>
+										<h4>Shanghai University</h4>
+									</div>
+									<div class="edu-grid-info">
+										<h5>Studied archives science at the Department of Library, Archives and Information Science.</h5>
+									</div>
+								</div>
+							</div>
+							<div class="clearfix"></div>
+						</div>
+					</div>
+					
+				</div>
+				<!--//education-->
+				<div class="strip-border"><p></p></div>
 
+				<div class="services-back"></div>
+				<!-- <div class="about-back"></div> -->
 				<!--my skill-->
 				<div class="my-skills text-center">
 					<div class="container">
@@ -275,11 +363,11 @@
 									</div>
 									<div class="col-md-2 skills-grid text-center">
 										<div class="circle" id="circles-4"></div>
-										<p>Html 5 / CSS 3</p>
+										<p>After Effect</p>
 									</div>
 									<div class="col-md-2 skills-grid text-center">
 										<div class="circle" id="circles-5"></div>
-										<p>After Effect</p>
+										<p>Html 5 / CSS 3</p>
 									</div>
 									<div class="clearfix"> </div>
 								 <script type="text/javascript" src="js/circles.js"></script>
@@ -294,13 +382,13 @@
 													if(i === 1){
 														percentage = 90;
 													}else if(i === 2){
-														percentage = 85;
+														percentage = 80;
 													}else if(i === 3){
 														percentage = 85;
 													}else if(i === 4){
-														percentage = 80;
+														percentage = 50;
 													}else if(i === 5){
-														percentage = 65;
+														percentage = 30;
 													}
 														
 														
@@ -321,179 +409,41 @@
 				</div>
 				<!--//my skill-->
 
-				<!--new section-->
-				<div id="projects" style="margin-top: -42px;">	
-					<div class="gallery">
-						<div class="gallery-grids">
-						<ul>
-							<li class="gallery2">
-								<div>
-									<img src="images/g1.png" alt="" />	
-									<div class="glry-bgd">
-									</div>
-								</div>
-								<div class="textbox">
-									<a href="images/g1_l.png">
-										<h4>QoffeeColors</h4>
-										<p>WEB DESIGN</p>
-									</a>
-								</div>
-							</li>
-							<li class="gallery2">
-								<div>
-									<img src="images/g2.jpg" alt="" />
-									<div class="glry-bgd">
-									</div>
-								</div>
-								<div class="textbox">
-									<a href="images/g2.jpg">
-										<h4>Saving APP</h4>
-										<p>MOBILE APP DESIGN</p>
-									</a>
-								</div>
-							</li>
-							<li class="gallery2">
-								<div>
-									<img src="images/g3.jpg" alt="" />
-									<div class="glry-bgd">
-									</div>
-								</div>
-								<div class="textbox">
-									<a href="images/g3_l.jpg">
-										<h4>Photograph Portfolio</h4>
-										<p>WEB DESIGN</p>
-									</a>
-								</div>
-							</li>
-							<li class="gallery2">
-								<div>
-									<img src="images/g4.png" alt="" />	
-									<div class="glry-bgd">
-									</div>
-								</div>
-								<div class="textbox">
-									<a href="images/g4.png">
-										<h4>Shopping List APP</h4>
-										<p>MATERIAL DESIGN</p>
-									</a>
-								</div>
-							</li>
-							<li class="gallery2">
-								<div>
-									<img src="images/g5.jpg" alt="" />	
-									<div class="glry-bgd">
-									</div>
-								</div>
-								<div class="textbox">
-									<a href="images/g5.jpg">
-										<h4>Portfolio Webiste</h4>
-										<p>WEB DESIGN</p>
-									</a>
-								</div>
-							</li>
-
-							<li class="gallery2">
-								<div>
-									<img src="images/g6.png" alt="" />	
-									<div class="glry-bgd">
-									</div>
-								</div>
-								<div class="textbox">
-									<a href="images/g6_l.png">
-										<h4>Self-learning Icon</h4>
-										<p>ILLUSTRATION</p>
-									</a>
-								</div>
-							</li>
-							<li class="gallery2">
-								<div>
-									<img src="images/g7.jpg" alt="" />								
-									<div class="glry-bgd">
-									</div>
-								</div>
-								<div class="textbox">
-									<a href="images/g7_l.jpg">
-										<h4>OS Application</h4>
-										<p>WIREFRAME DESIGN</p>
-									</a>
-								</div>
-							</li>
-							<li class="gallery2">
-								<div>
-									<img src="images/g8.png" alt="" />								
-									<div class="glry-bgd">
-									</div>
-								</div>
-								<div class="textbox">
-									<a href="images/g8_l.png">
-										<h4>Coffee Emoji</h4>
-										<p>ILLUSTRATION</p>
-									</a>
-								</div>
-							</li>
-							<li class="gallery2">
-								<div>
-									<img src="images/g9.jpg" alt="" />								
-									<div class="glry-bgd">
-									</div>
-								</div>
-								<div class="textbox">
-									<a href="images/g9_l.jpg">
-										<h4>Marinara Bagel</h4>
-										<p>ILLUSTRATION</p>
-									</a>
-								</div>
-							</li>
-							<li class="gallery2">
-								<div>
-									<img src="images/g10.jpg" alt="" />								
-									<div class="glry-bgd">
-									</div>
-								</div>
-								<div class="textbox">
-									<a href="images/g10_l.jpg">
-										<h4>Go Camping</h4>
-										<p>ILLUSTRATION</p>
-									</a>
-								</div>
-							</li>
-							<li class="gallery2">
-								<div>
-									<img src="images/g11.jpg" alt="" />								
-									<div class="glry-bgd">
-									</div>
-								</div>
-								<div class="textbox">
-									<a href="images/g11_l.jpg">
-										<h4>Gratitude Log</h4>
-										<p>WEB DESIGN</p>
-									</a>
-								</div>
-							</li>
-							<li class="gallery2">
-								<div>
-									<img src="images/g12.png" alt="" />								
-									<div class="glry-bgd">
-									</div>
-								</div>
-								<div class="textbox">
-									<a href="images/g12_l.png">
-										<h4>Rock and Roll</h4>
-										<p>ILLUSTRATION</p>
-									</a>
-								</div>
-							</li>
-						</ul>
-						<div class="clearfix"> </div>
-					</div>	
+				<!--contact-->
+				<div class="contact" id="contact" style="padding-bottom: 47px;">
+					<div class="container">
+						<div class="contact-info text-center">
+							<h3>CONTACT</h3>
+							<div class="strip text-center"><img src="images/contact-divider.png" alt=" "/></div>
+						</div>
+						<div class="contact-grids">
+							<div class="col-md-5 contact-left">
+								<h3>Say Hi to Me</h3>
+								<div class="stripb"></div>
+								<ul>
+									<li></li>
+									<li>San Francisco </li>
+									<li>CA, United State</li>
+									<li>206-953-0326</li>
+									<li><a href="mailto:qianq222@uw.edu">qianq222@uw.edu</a></li>
+									<li><a href="http://www.qianqianwang.design">www.qianqianwang.design</a></li>
+								</ul>
+							</div>
+							<div class="col-md-7 contact-right">
+								<h3>Drop Me A Line</h3>
+								<div class="stripb"></div>
+								<form>
+									<input type="text" value="Name" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Name';}" required="">
+									<input type="text" value="E-mail" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'E-mail';}" required="">
+									<textarea type="text" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Message';}" required="">Message</textarea>
+									<input type="submit" value="SEND">
+								</form>
+							</div>
+							<div class="clearfix"></div>
+						</div>
+					</div>
 				</div>
-				<!--//gallery -->
-				<!--//new section-->
-
-				<div class="strip-border"><p></p></div>
-
-				<!-- <div class="services-back"></div> -->
-				<!-- <div class="about-back"></div> -->
+				<!--//contact-->
 
 				<!--footer-->
 				<div class="footer">
