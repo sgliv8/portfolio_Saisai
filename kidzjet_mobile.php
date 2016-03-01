@@ -18,7 +18,7 @@
 		<link rel="stylesheet" href="css/magnific-popup.css">
 		<link type="text/css" href="css/bottom.css" rel="stylesheet" />
 	<!-- for-mobile-apps -->
-		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name='viewport' content='width=device-width, maximum-scale=1.0, minimum-scale=1.0, initial-scale=1.0' />
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 	<!-- //for-mobile-apps -->
@@ -45,7 +45,7 @@
 			    });
 
 				//Call the pikaChoose function for slideshow plugin initialization
-					$("#pikame").PikaChoose();
+				$("#pikame").PikaChoose();
 			});
 		</script>
 
@@ -73,8 +73,8 @@
 			<nav class="menu">
 				<div class="icon-list">
 					<a href="#" style="color: #c94e50;"><span style="font-size: 1em;">Portfolio</span></a>
-					<a href="kidzjet_dash.php"><i class="fa fa-fw fa-paper-plane"></i><span style="font-size: 0.59em;">Kidzjet Dashboard</span></a>
 					<a href="kidzjet_mobile.php"><i class="fa fa-fw fa-car"></i><span style="font-size: 0.59em;">Kidzjet Mobile</span></a>
+					<a href="kidzjet_dash.php"><i class="fa fa-fw fa-paper-plane"></i><span style="font-size: 0.59em;">Kidzjet Dashboard</span></a>
 					<a href="mobolet.php"><i class="fa fa-fw fa-shopping-bag"></i><span style="font-size: 0.59em;">Mobolet Mobile</span></a>
 					<a href="hubtag_web.php"><i class="fa fa-fw fa-video-camera"></i><span>Hubtag Website</span></a>
 					<a href="hubtag_dash.php"><i class="fa fa-fw fa-gamepad"></i><span style="font-size: 0.59em;">Hubtag Dashboard</span></a>
@@ -125,42 +125,6 @@
 				</div>
 				<!--/header-banner-->
 
-				<!-- nav -->
-				<nav class="subMenu navbar-custom navbar-scroll-top" role="navigation" style="height: 120px;">
-			        <div class="container">
-			            <div class="navbar-header page-scroll">
-			                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
-			                    <img src="images/nav-icon.png" title="drop-down-menu" /> 
-			                </button>
-			            </div>
-			            <!-- Collect the nav links, forms, and other content for toggling -->
-			            <div class="collapse navbar-collapse navbar-left navbar-main-collapse" style="width: 100%;">
-			                <ul class="nav">
-			                    <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
-			                    <li class="page-scroll col-lg-2 col-md-2 col-sm-2 col-xs-2 col-lg-offset-2 col-md-offset-2 col-sm-offset-2">
-			                        <a id="s1" class="subNavBtn understand" href="#">
-			                        </a>
-			                        <span>Idea</span>
-			                    </li>
-			                    <li class="page-scroll col-lg-2 col-md-2 col-sm-2">
-			                        <a id="s2" class="subNavBtn idea" href="#"></a>
-			                        <span style="padding-left: 33px;">Wireframe</span>
-			                    </li>
-			                    <li class="page-scroll col-lg-2 col-md-2 col-sm-2">
-			                        <a id="s3" class="subNavBtn design" href="#"></a>
-			                        <span style="padding-left: 28px;">Design</span>
-			                    </li>
-			                    <li class="page-scroll col-lg-2 col-md-2 col-sm-2">
-			                        <a id="s4" class="subNavBtn communicate" href="#"></a>
-			                        <span style="padding-left: 6px;">Cooperation</span>
-			                    </li>
-			                </ul>
-			            </div>
-			            <!-- /.navbar-collapse -->
-		                <div class="clearfix"> </div>
-	        		</div>
-   	  			</nav>
-				<!--/nav-->
 
 				<div class="wrapper">
 					<div class="section s1 extra_top_pad" style="margin-bottom: 3em;">
@@ -172,7 +136,8 @@
 										<h1 style="display: inline-block; vertical-align: middle; padding-left: 10px; font-size: 20px; font-weight: 700; color: #ffbbe0;">Idea</h1>
 									</div>
 									<br>
-									<p>The fact that I have a big collection of handcrafts was just one of many factors that made working on this project a must! I had a deep understanding of the handcrafts’ target audience -- it was well represented in my cabinet. So I desire to design a single page eCommerce website with elegant look and feel that I am able to share all the handcrafts that I like with others.</p>
+									<p>Kidzjet is a startup company that provides kids transportation service and kids outdoor science summer camps. In order to improve the current workflow and offer a better user experience for their customers, Kidzjet decided to design and develop a new mobile application. The main goal of the new mobile application is to provide schools and parents full visibility in their trip management, trip booking, reports and payments, in particular the live trip tracking.
+									</p>
 									<br><br>
 								</div>
 							</div>	
@@ -196,7 +161,7 @@
 									</a>
 								</div>
 								<div class="col-md-4">
-									<p>Hubtag is going to launch their live streaming software for gamers. In order to bring gamers better user experience, the company decided to develop a web-based dashboard to simplify the management of the software. After getting the data from user research, the client had a clear understanding of what functionalities they want on the dashboard.</p>
+									<p>Working with the product team, we mapped out all the requirement and defined the scope of the project in a short period of time. After that, I created numerous wireframes and initial mockups that met the business goals and ensured a positive user experience. </p>
 									<br><br>
 								</div>
 							</div>	
@@ -215,16 +180,15 @@
 			                            <ul class="tag">
 			                            	<li><a>Photoshop</a></li>
 			                            	<li><a>Illustrator</a></li>
-			                            	<li><a>Web Design</a></li>
+			                            	<li><a>Mobile App Design</a></li>
 			                            	<li><a>UX/UI</a></li>
-			                            	<li><a>Responsive Design</a></li> 
+			                            	<li><a>Sketch 3</a></li>
 			                            </ul>
 			                        </div> <!-- tags -->
-									<p>With the new redesign Hubtag website you’ll notice the creative direction included establishing an elegant yet dynamic, user friendly and efficient look and feel with hints of contemporary.</p>
+									<p>From the color palette of the Kidzjet logo and the website, I got the inspiration for the color theme of the mobile app design. Unlike the website, I chose to apply the bright orange as the main color for the mobile app instead of the dead color, which makes the mobile app look more energetic and pleasant as a whole.
+									</p>
 									<br><br>
-									<p>A skyline of Seattle is used as background image in the welcome section of the home page to identify the location of Hubtag. In order to emphasize the new live streaming product, I decided to incorporate the slogan and the four advantages of Caster in the welcome section. </p>
-									<br><br>
-									<p>To maintain the consistency of the homepage, an introduction and showcase section of the software is designed followed by the welcome section.</p>
+									<p>As for the overall style of the mobile app, the flat design is utilized to keep the interface simple as well as efficient.</p>
 									<br><br>
 								</div>
 								<div class="col-md-offset-1 col-md-6">
@@ -265,10 +229,10 @@
 
 					<div class="row portfolio-nav" style="padding-bottom:6em;">
 	                    <div class="col-xs-7 col-md-10">
-	                    	<a class="fa fa-arrow-left button" href="kidzjet_dash.php"></a>
+	                    	<a class="fa fa-arrow-left button" href="handcraft.php"></a>
 	                    </div>
 	                    <div class="col-xs-5 col-md-2 nav-btn">
-	                        <a class="fa fa-arrow-right button" href="mobolet.php"></a>
+	                        <a class="fa fa-arrow-right button" href="kidzjet_dash.php"></a>
 	                    </div>
 	                </div>
 

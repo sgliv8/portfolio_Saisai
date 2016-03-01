@@ -3838,9 +3838,17 @@ a.callbacks_nav.callbacks1_nav.prev {
   margin-top: -60px;
 }
 
+.mobolet_logo {
+  width: 150px;
+  margin-top: -60px;
+}
 
 
-
+@media (min-width: 960px) {
+  #mobolet_photo {
+    margin-top: -70px;
+  }
+}
 
 /*-- responsive media queries --*/
 @media (max-width: 1000px) and (min-width: 900px){
@@ -4110,9 +4118,6 @@ a.callbacks_nav.callbacks1_nav.prev {
 }
 
 @media screen and (max-width: 1024px){
-  .extra_top_pad {
-    padding-top: 200px;
-  }
 }
 
 
