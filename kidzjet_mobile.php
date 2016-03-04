@@ -247,7 +247,7 @@
 				<!--footer-->
 				<div class="footer">
 					<div class="container">
-						<p>Copyright &copy; 2015 
+						<p>Copyright &copy; 2016 
 						<span><img src="images/logo250.png" alt="logo" class="footer-logo"></span>
 						<a href="index.php"> Qianqian Wang</a>
 					</p>
