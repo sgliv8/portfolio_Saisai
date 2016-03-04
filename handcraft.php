@@ -178,7 +178,7 @@
 	                    	<a class="fa fa-arrow-left button" href="banana.php"></a>
 	                    </div>
 	                    <div class="col-xs-5 col-md-2 nav-btn">
-	                        <a class="fa fa-arrow-right button" href="hubtag_web.php"></a>
+	                        <a class="fa fa-arrow-right button" href="kidzjet_mobile.php"></a>
 	                    </div>
 	                </div>
 

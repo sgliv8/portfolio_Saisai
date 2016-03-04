@@ -156,7 +156,7 @@
 						</div>
 						<div class="row">
 							<div class="col-md-8">
-								<a class="popup-link" href="images/wireframe_dash.png">
+								<a class="popup-link" href="images/kidzjet_sitemap.png">
 									<img src="images/kidzjet_sitemap.png" alt="hubtag dashboard wireframe">
 								</a>
 							</div>

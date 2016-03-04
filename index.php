@@ -40,14 +40,14 @@
 		</script>
 	<!-- start-smooth-scrolling -->
 	<!--gallery-->
-	<script src="js/jquery.chocolat.js"></script>
-		<link rel="stylesheet" href="css/chocolat.css" type="text/css" media="screen">
+<!--	<script src="js/jquery.chocolat.js"></script>-->
+<!--		<link rel="stylesheet" href="css/chocolat.css" type="text/css" media="screen">-->
 		<!--light-box-files -->
-		<script type="text/javascript">
-		$(function() {
-			$('.gallery a').Chocolat();
-		});
-		</script>
+<!--		<script type="text/javascript">-->
+<!--		$(function() {-->
+<!--			$('.gallery a').Chocolat();-->
+<!--		});-->
+<!--		</script>-->
 	<!--/gallery-->
 
 </head>
@@ -328,12 +328,12 @@
 						<ul>
 							<li class="gallery2">
 								<div>
-									<img src="images/g1.png" alt="" />	
+									<img src="images/g1.png" alt="QoffeeColors" />
 									<div class="glry-bgd">
 									</div>
 								</div>
 								<div class="textbox">
-									<a href="images/g1_l.png">
+									<a href="images/g1_l.png" class="popup-link">
 										<h4>QoffeeColors</h4>
 										<p>WEB DESIGN</p>
 									</a>
@@ -341,12 +341,12 @@
 							</li>
 							<li class="gallery2">
 								<div>
-									<img src="images/g2.jpg" alt="" />
+									<img src="images/g2.jpg" alt="Saving APP" />
 									<div class="glry-bgd">
 									</div>
 								</div>
 								<div class="textbox">
-									<a href="images/g2.jpg">
+									<a href="images/g2.jpg" class="popup-link">
 										<h4>Saving APP</h4>
 										<p>MOBILE APP DESIGN</p>
 									</a>
@@ -354,12 +354,12 @@
 							</li>
 							<li class="gallery2">
 								<div>
-									<img src="images/g3.jpg" alt="" />
+									<img src="images/g3.jpg" alt="Photograph Portfolio" />
 									<div class="glry-bgd">
 									</div>
 								</div>
 								<div class="textbox">
-									<a href="images/g3_l.jpg">
+									<a href="images/g3_l.jpg" class="popup-link">
 										<h4>Photograph Portfolio</h4>
 										<p>WEB DESIGN</p>
 									</a>
@@ -367,12 +367,12 @@
 							</li>
 							<li class="gallery2">
 								<div>
-									<img src="images/g4.png" alt="" />	
+									<img src="images/g4.png" alt="Shopping List APP" />
 									<div class="glry-bgd">
 									</div>
 								</div>
 								<div class="textbox">
-									<a href="images/g4.png">
+									<a href="images/g4.png" class="popup-link">
 										<h4>Shopping List APP</h4>
 										<p>MATERIAL DESIGN</p>
 									</a>
@@ -380,12 +380,12 @@
 							</li>
 							<li class="gallery2">
 								<div>
-									<img src="images/g5.jpg" alt="" />	
+									<img src="images/g5.jpg" alt="Portfolio Webiste" />
 									<div class="glry-bgd">
 									</div>
 								</div>
 								<div class="textbox">
-									<a href="images/g5.jpg">
+									<a href="images/g5.jpg" class="popup-link">
 										<h4>Portfolio Webiste</h4>
 										<p>WEB DESIGN</p>
 									</a>
@@ -394,12 +394,12 @@
 
 							<li class="gallery2">
 								<div>
-									<img src="images/g6.png" alt="" />	
+									<img src="images/g6.png" alt="Self-learning Icon" />
 									<div class="glry-bgd">
 									</div>
 								</div>
 								<div class="textbox">
-									<a href="images/g6_l.png">
+									<a href="images/g6_l.png" class="popup-link">
 										<h4>Self-learning Icon</h4>
 										<p>ILLUSTRATION</p>
 									</a>
@@ -407,12 +407,12 @@
 							</li>
 							<li class="gallery2">
 								<div>
-									<img src="images/g7.jpg" alt="" />								
+									<img src="images/g7.jpg" alt="OS Application" />
 									<div class="glry-bgd">
 									</div>
 								</div>
 								<div class="textbox">
-									<a href="images/g7_l.jpg">
+									<a href="images/g7_l.jpg" class="popup-link">
 										<h4>OS Application</h4>
 										<p>WIREFRAME DESIGN</p>
 									</a>
@@ -420,12 +420,12 @@
 							</li>
 							<li class="gallery2">
 								<div>
-									<img src="images/g8.png" alt="" />								
+									<img src="images/g8.png" alt="Coffee Emoji" />
 									<div class="glry-bgd">
 									</div>
 								</div>
 								<div class="textbox">
-									<a href="images/g8_l.png">
+									<a href="images/g8_l.png" class="popup-link">
 										<h4>Coffee Emoji</h4>
 										<p>ILLUSTRATION</p>
 									</a>
@@ -433,12 +433,12 @@
 							</li>
 							<li class="gallery2">
 								<div>
-									<img src="images/g9.jpg" alt="" />								
+									<img src="images/g9.jpg" alt="Marinara Bagel" />
 									<div class="glry-bgd">
 									</div>
 								</div>
 								<div class="textbox">
-									<a href="images/g9_l.jpg">
+									<a href="images/g9_l.jpg" class="popup-link">
 										<h4>Marinara Bagel</h4>
 										<p>ILLUSTRATION</p>
 									</a>
@@ -446,12 +446,12 @@
 							</li>
 							<li class="gallery2">
 								<div>
-									<img src="images/g10.jpg" alt="" />								
+									<img src="images/g10.jpg" alt="Go Camping" />
 									<div class="glry-bgd">
 									</div>
 								</div>
 								<div class="textbox">
-									<a href="images/g10_l.jpg">
+									<a href="images/g10_l.jpg" class="popup-link">
 										<h4>Go Camping</h4>
 										<p>ILLUSTRATION</p>
 									</a>
@@ -459,12 +459,12 @@
 							</li>
 							<li class="gallery2">
 								<div>
-									<img src="images/g11.jpg" alt="" />								
+									<img src="images/g11.jpg" alt="Gratitude Log" />
 									<div class="glry-bgd">
 									</div>
 								</div>
 								<div class="textbox">
-									<a href="images/g11_l.jpg">
+									<a href="images/g11_l.jpg" class="popup-link">
 										<h4>Gratitude Log</h4>
 										<p>WEB DESIGN</p>
 									</a>
@@ -472,12 +472,12 @@
 							</li>
 							<li class="gallery2">
 								<div>
-									<img src="images/g12.png" alt="" />								
+									<img src="images/g12.png" alt="Rock and Roll" />
 									<div class="glry-bgd">
 									</div>
 								</div>
 								<div class="textbox">
-									<a href="images/g12_l.png">
+									<a href="images/g12_l.png" class="popup-link">
 										<h4>Rock and Roll</h4>
 										<p>ILLUSTRATION</p>
 									</a>

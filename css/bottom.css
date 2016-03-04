@@ -6,3 +6,76 @@
 .jcarousel-skin-pika .jcarousel-clip-horizontal {height: 90px; width: 485px;}
 .jcarousel-skin-pika .jcarousel-item-horizontal { margin-right: 10px;}
 
+
+/*Media-query for the carousel*/
+
+
+@media(max-width:1220px){
+
+    .pika-thumbs {
+        padding-left: 40px;
+    }
+}
+
+
+@media(max-width:1175px){
+
+    .pika-thumbs {
+        padding-left:25px;
+    }
+}
+
+@media(max-width:1131px){
+
+    .pika-stage, .pika-textnav {
+        width: 400px;
+    }
+
+    .pika-thumbs {
+        padding-left:15px;
+    }
+}
+
+
+@media(max-width:680px){
+    .pika-stage {
+        height: 652px !important;
+    }
+
+    .pika-stage, .pika-textnav {
+        width: 400px;
+    }
+
+    .pika-thumbs {
+        padding-left: 0px;
+    }
+}
+
+@media(max-width:550px){
+    .pika-stage {
+        height: 552px !important;
+    }
+
+    .pika-stage, .pika-textnav {
+        width: 300px;
+    }
+
+    .pika-thumbs {
+        padding-left: 0px;
+    }
+}
+
+
+@media(max-width:425px){
+    .pika-stage {
+        height: 452px !important;
+    }
+
+    .pika-stage, .pika-textnav {
+        width: 250px;
+    }
+
+    .pika-thumbs {
+        padding-left: 0px;
+    }
+}

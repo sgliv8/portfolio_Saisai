@@ -3,3 +3,47 @@
 .pika-thumbs {
     padding-left: 190px;
 }
+
+/*Media-query for the carousel*/
+@media(max-width:680px){
+    .pika-stage {
+        height: 652px !important;
+    }
+
+    .pika-stage, .pika-textnav {
+        width: 400px;
+    }
+
+    .pika-thumbs {
+        padding-left: 135px;
+    }
+}
+
+@media(max-width:550px){
+    .pika-stage {
+        height: 552px !important;
+    }
+
+    .pika-stage, .pika-textnav {
+        width: 300px;
+    }
+
+    .pika-thumbs {
+        padding-left: 85px;
+    }
+}
+
+
+@media(max-width:425px){
+    .pika-stage {
+        height: 452px !important;
+    }
+
+    .pika-stage, .pika-textnav {
+        width: 250px;
+    }
+
+    .pika-thumbs {
+        padding-left: 35px;
+    }
+}
