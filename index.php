@@ -58,9 +58,9 @@
 			<nav class="menu">
 				<div class="icon-list">
 					<a href="#" style="color: #c94e50;"><span style="font-size: 1em;">Portfolio</span></a>
-					<a href="kidzjet_mobile.php"><i class="fa fa-fw fa-shopping-bag"></i><span style="font-size: 0.59em;">Kidzjet Mobile</span></a>
+					<a href="kidzjet_mobile.php"><i class="fa fa-fw fa-car"></i><span style="font-size: 0.59em;">Kidzjet Mobile</span></a>
 					<a href="kidzjet_dash.php"><i class="fa fa-fw fa-paper-plane"></i><span style="font-size: 0.59em;">Kidzjet Dashboard</span></a>
-					<a href="mobolet.php"><i class="fa fa-fw fa-car"></i><span style="font-size: 0.59em;">Mobolet Mobile</span></a>
+					<a href="mobolet.php"><i class="fa fa-fw fa-shopping-bag"></i><span style="font-size: 0.59em;">Mobolet Mobile</span></a>
 					<a href="hubtag_web.php"><i class="fa fa-fw fa-video-camera"></i><span>Hubtag Website</span></a>
 					<a href="hubtag_dash.php"><i class="fa fa-fw fa-gamepad"></i><span style="font-size: 0.59em;">Hubtag Dashboard</span></a>
 					<a href="tagether.php"><i class="fa fa-fw fa-chrome"></i><span>Tagether</span></a>
@@ -346,7 +346,7 @@
 									</div>
 								</div>
 								<div class="textbox">
-									<a href="images/g2.jpg" class="popup-link">
+									<a href="images/g2_l.jpg" class="popup-link">
 										<h4>Saving APP</h4>
 										<p>MOBILE APP DESIGN</p>
 									</a>
@@ -378,6 +378,63 @@
 									</a>
 								</div>
 							</li>
+							
+							<li class="gallery2">
+								<div>
+									<img src="images/g13.png" alt="Dog-J" />
+									<div class="glry-bgd">
+									</div>
+								</div>
+								<div class="textbox">
+									<a href="images/g13.png" class="popup-link">
+										<h4>Dog-J</h4>
+										<p>ICON DESIGN</p>
+									</a>
+								</div>
+							</li>
+
+							<li class="gallery2">
+								<div>
+									<img src="images/g14.png" alt="MyPolaroid" />
+									<div class="glry-bgd">
+									</div>
+								</div>
+								<div class="textbox">
+									<a href="images/g14.png" class="popup-link">
+										<h4>My Polaroid</h4>
+										<p>GAPHIC DESIGN</p>
+									</a>
+								</div>
+							</li>
+
+							<li class="gallery2">
+								<div>
+									<img src="images/g15.png" alt="Adidas" />
+									<div class="glry-bgd">
+									</div>
+								</div>
+								<div class="textbox">
+									<a href="images/g15.png" class="popup-link">
+										<h4>Adidas Redesign</h4>
+										<p>WEB DESIGN</p>
+									</a>
+								</div>
+							</li>
+
+							<li class="gallery2">
+								<div>
+									<img src="images/g16.png" alt="actorsong" />
+									<div class="glry-bgd">
+									</div>
+								</div>
+								<div class="textbox">
+									<a href="images/g16.png" class="popup-link">
+										<h4>Actor Song</h4>
+										<p>ILLUSTRATION</p>
+									</a>
+								</div>
+							</li>
+
 							<li class="gallery2">
 								<div>
 									<img src="images/g5.jpg" alt="Portfolio Webiste" />
